@@ -12,10 +12,10 @@ All integrations in the NEAR Ecosystem are composed of two files: a Markdown fil
 
 ```
 ---
-slug: "skywardfinance"
-date: "2021-07-03"
+slug: "skyward-finance"
+date: "04-01-2021"
 title: "Skyward Finance"
-logline: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
+oneliner: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
 website: "https://skyward.finance/"
 app: "https://app.skyward.finance/"
 twitter: "https://twitter.com/skywardfinance"
@@ -27,7 +27,7 @@ logo: /img/skywardfinancelogo.png
 integration: project
 category: defi, app, launchpad
 status: live
-contract: "https://github.com/skyward-finance/contracts"
+contract: "skyward.near"
 ---
 ```
 
@@ -36,7 +36,7 @@ Example Markdown headers are above (only input what is applicatble to the integr
 - `slug`: The page URL that follows after near.org/ecosystem/
 - `date`: The date of project addition
 - `title`: The title of the project
-- `logline`: The one line summary of the project and its integration to NEAR
+- `oneliner`: The one line summary of the project and its integration to NEAR
 - `website`: A URL to direct users to the page
 - `app`: A URL directly to the app
 - `twitter`: A URL to the twitter page
@@ -50,7 +50,7 @@ Example Markdown headers are above (only input what is applicatble to the integr
 - `integration`: How it ties into the NEAR Ecosystem (see below)
 - `category`: A comma separated list of categories describing the project
 - `status`: The status of the integration: `live`, `building`, `closed`
-- `contract`: URL to contract
+- `contract`: Project contract
 
 ### Categories
 
