@@ -1,8 +1,8 @@
 ---
-slug: "reffinance"
+slug: "ref-finance"
 date: "2021-05-03"
 title: "Ref Finance"
-logline: "Ref Finance is a multi-purpose Decentralized Finance (DeFi) platform built on NEAR Protocol."
+oneliner: "Ref Finance is a multi-purpose Decentralized Finance (DeFi) platform built on NEAR Protocol."
 website: "https://ref.finance/"
 app: "https://app.ref.finance/"
 twitter: "https://twitter.com/finance_ref"
@@ -13,7 +13,7 @@ logo: /img/reffinancelogo.png
 integration: project
 category: defi, app
 status: live
-contract: "https://github.com/ref-finance/ref-contracts"
+contract: "ref-finance.near"
 ---
 
 <b> About Ref Finance </b>
