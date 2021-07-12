@@ -1,6 +1,6 @@
 ---
 slug: "mintbase"
-date: "2020-04-03"
+date: "04-03-2020"
 title: "Mintbase"
 oneliner: "Mintbase is a grounbreaking NFT protocol that allows you to mint, sell, & develop on your own smart contract."
 website: "https://www.mintbase.io/"
