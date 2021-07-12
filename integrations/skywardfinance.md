@@ -1,8 +1,8 @@
 ---
-slug: "skywardfinance"
+slug: "skyward-finance"
 date: "2021-07-03"
 title: "Skyward Finance"
-logline: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
+oneliner: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
 website: "https://skyward.finance/"
 app: "https://app.skyward.finance/"
 twitter: "https://twitter.com/skywardfinance"
