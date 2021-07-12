@@ -2,7 +2,7 @@
 slug: "mintbase"
 date: "2020-04-03"
 title: "Mintbase"
-logline: "Mintbase is a grounbreaking NFT protocol that allows you to mint, sell, & develop on your own smart contract."
+oneliner: "Mintbase is a grounbreaking NFT protocol that allows you to mint, sell, & develop on your own smart contract."
 website: "https://www.mintbase.io/"
 twitter: "https://twitter.com/mintbase"
 telegram: "https://t.me/mintbase"
@@ -12,6 +12,7 @@ logo: /img/mintbaselogo.png
 integration: project
 category: nft
 status: live
+contract: mintbase.near
 ---
 
 <b> About Mintbase </b>
