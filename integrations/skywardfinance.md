@@ -1,6 +1,6 @@
 ---
 slug: "skyward-finance"
-date: "2021-07-03"
+date: "04-01-2021"
 title: "Skyward Finance"
 oneliner: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
 website: "https://skyward.finance/"
@@ -14,7 +14,7 @@ logo: /img/skywardfinancelogo.png
 integration: project
 category: defi, app, launchpad
 status: live
-contract: "https://github.com/skyward-finance/contracts"
+contract: "skyward.near"
 ---
 
 <b> About Skyward Finance </b>
