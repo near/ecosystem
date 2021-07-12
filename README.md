@@ -42,6 +42,7 @@ Example Markdown headers are above (only input what is applicatble to the integr
 - `twitter`: A URL to the twitter page
 - `telegram`: A URL to the telegram channel
 - `discord`: A URL to the discord channel
+- `youtube`: A URL to the YouTube channel
 - `medium`: A URL to the medium page
 - `github`: A URL to the github page
 - `token`: 
