@@ -1,6 +1,6 @@
 ---
 slug: "ref-finance"
-date: "2021-05-03"
+date: "03-01-2021"
 title: "Ref Finance"
 oneliner: "Ref Finance is a multi-purpose Decentralized Finance (DeFi) platform built on NEAR Protocol."
 website: "https://ref.finance/"
