@@ -9,7 +9,6 @@ telegram: "https://t.me/auroraisnear"
 discord: "https://discord.gg/atRsNsR7"
 github: "https://github.com/aurora-is-near"
 logo: /img/auroralogo.png
-integration: project
 category: infra, tools
 status: live
 contract: aurora.near
