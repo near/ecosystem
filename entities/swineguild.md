@@ -7,5 +7,5 @@ website: "https://www.swineguild.com/"
 twitter: "https://twitter.com/SwineGuild"
 discord: "https://discord.com/invite/bUu2hcdzxW"
 logo: /img/swineguildlogo.png
-integration: guild
+category: guild
 ---
