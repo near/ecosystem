@@ -11,7 +11,6 @@ discord: "https://discord.gg/KKjQwCRvbV"
 medium: "https://medium.com/nearprotocol/everything-you-need-to-know-about-skyward-finance-before-the-first-token-sale-6e82fe305e1a"
 github: "https://github.com/skyward-finance/"
 logo: /img/skywardfinancelogo.png
-integration: project
 category: defi, app, launchpad
 status: live
 contract: "skyward.near"
