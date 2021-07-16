@@ -48,7 +48,7 @@ Example Markdown headers are above (only input what is applicable for what you a
 - `dao`:
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project
-- `status`: `live`, `building`, `closed`
+- `status`: 'live', 'building', 'closed'
 - `contract`: Project contract
 
 
