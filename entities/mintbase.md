@@ -9,7 +9,6 @@ telegram: "https://t.me/mintbase"
 discord: "https://discord.gg/89cSHH7"
 medium: "https://medium.com/mintbase"
 logo: /img/mintbaselogo.png
-integration: project
 category: nft
 status: live
 contract: mintbase.near
