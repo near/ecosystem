@@ -8,5 +8,4 @@ twitter: "https://twitter.com/Createbase1"
 telegram: "https://t.me/creatorsNEAR"
 youtube: "https://www.youtube.com/channel/UCjvUUu3qlU9CvX9Z1Fz-9ZQ"
 logo: /img/createbase.svg
-integration: guild
 ---
