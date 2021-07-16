@@ -6,7 +6,7 @@ This repository is the data source for the NEAR Ecosystem page, located at [near
 
 # Contributing Guidelines
 
-All integrations in the NEAR Ecosystem are composed of two files: a Markdown file with headers, and an .svg or .png image. To add a new project to the ecosystem page, create both a new Markdown file in the `integrations` directory and add a new .svg or .png image in the `img` directory.
+All submissions to the NEAR Ecosystem are composed of two files: a Markdown file with headers, and an .svg or .png image. To add a new project to the ecosystem page, create both a new Markdown file in the `ecosystem` directory and add a new .svg or .png image in the `img` directory.
 
 ### Markdown Headers
 
@@ -24,19 +24,18 @@ discord: "https://discord.gg/KKjQwCRvbV"
 medium: "https://medium.com/nearprotocol/everything-you-need-to-know-about-skyward-finance-before-the-first-token-sale-6e82fe305e1a"
 github: "https://github.com/skyward-finance/"
 logo: /img/skywardfinancelogo.png
-integration: project
 category: defi, app, launchpad
 status: live
 contract: "skyward.near"
 ---
 ```
 
-Example Markdown headers are above (only input what is applicatble to the integration you are adding). Below are guidelines for each field:
+Example Markdown headers are above (only input what is applicable for what you are adding). Below are guidelines for each field:
 
 - `slug`: The page URL that follows after near.org/ecosystem/
 - `date`: The date of project addition
 - `title`: The title of the project
-- `oneliner`: The one line summary of the project and its integration to NEAR
+- `oneliner`: The one line summary
 - `website`: A URL to direct users to the page
 - `app`: A URL directly to the app
 - `twitter`: A URL to the twitter page
@@ -48,26 +47,14 @@ Example Markdown headers are above (only input what is applicatble to the integr
 - `token`: 
 - `dao`:
 - `logo`: A relative path to the corresponding SVG/PNG image
-- `integration`: How it ties into the NEAR Ecosystem (see below)
 - `category`: A comma separated list of categories describing the project
-- `status`: The status of the integration: `live`, `building`, `closed`
+- `status`: `live`, `building`, `closed`
 - `contract`: Project contract
+
 
 ### Categories
 
-Available classifications for integrations:
-
-```
-project
-guild
-dao
-company
-fund
-accelerator
-```
-
-
-Available classifications for project categories:
+Available classifications for 'categories':
 
 ```
 amm
@@ -83,6 +70,11 @@ stablecoin
 tools
 wallet
 metaplex
+guild
+dao
+company
+fund
+accelerator
 ```
 
 ### Image Guidelines
