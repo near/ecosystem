@@ -6,7 +6,7 @@ This repository is the data source for the NEAR Ecosystem page, located at [near
 
 # Contributing Guidelines
 
-All submissions to the NEAR Ecosystem are composed of two files: a Markdown file with headers, and an .svg or .png image. To add a new project to the ecosystem page, create both a new Markdown file in the `ecosystem` directory and add a new .svg or .png image in the `img` directory.
+All submissions to the NEAR Ecosystem are composed of two files: a Markdown file with headers, and an .svg or .png image. To add a new project to the ecosystem page, create both a new Markdown file in the `entities` directory and add a new .svg or .png image in the `img` directory.
 
 ### Markdown Headers
 
@@ -60,20 +60,20 @@ Available classifications for 'categories':
 amm
 app
 defi
+nft
 dex
 exchange
+education
 explorer
 infra
+utility
 oracle
-spl
 stablecoin
 tools
 wallet
-metaplex
+validator
 guild
 dao
-company
-fund
 accelerator
 ```
 
