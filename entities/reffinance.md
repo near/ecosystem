@@ -10,7 +10,6 @@ telegram: "https://t.me/ref_finance"
 discord: "https://discord.gg/KKjQwCRvbV"
 github: "https://github.com/ref-finance"
 logo: /img/reffinancelogo.png
-integration: project
 category: defi, app
 status: live
 contract: "ref-finance.near"
