@@ -84,6 +84,7 @@ accelerator
 vc
 grants
 amm
+launchpad
 dex
 stablecoin
 lending
