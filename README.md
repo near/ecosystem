@@ -8,12 +8,12 @@ This repository is the data source for the NEAR Ecosystem page, located at [near
 
 All submissions to the NEAR Ecosystem are composed of two files: a Markdown file with headers, and an .svg or .png image. To add a new project to the ecosystem page, create both a new Markdown file in the `entities` directory and add a new .svg or .png image in the `img` directory.
 
+
 ### Markdown Headers
 
 ```
 ---
 slug: "skyward-finance"
-date: "04-01-2021"
 title: "Skyward Finance"
 oneliner: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
 website: "https://skyward.finance/"
@@ -23,6 +23,7 @@ telegram: "https://t.me/skywardfinance"
 discord: "https://discord.gg/KKjQwCRvbV"
 medium: "https://medium.com/nearprotocol/everything-you-need-to-know-about-skyward-finance-before-the-first-token-sale-6e82fe305e1a"
 github: "https://github.com/skyward-finance/"
+ticker: 
 logo: /img/skywardfinancelogo.png
 category: defi, app, launchpad
 status: live
@@ -33,48 +34,60 @@ contract: "skyward.near"
 Example Markdown headers are above (only input what is applicable for what you are adding). Below are guidelines for each field:
 
 - `slug`: The page URL that follows after near.org/ecosystem/
-- `date`: The date of project addition
 - `title`: The title of the project
 - `oneliner`: The one line summary
 - `website`: A URL to direct users to the page
 - `app`: A URL directly to the app
+- `whitepaper`: A URL directly to white/lite paper
 - `twitter`: A URL to the twitter page
 - `telegram`: A URL to the telegram channel
 - `discord`: A URL to the discord channel
 - `youtube`: A URL to the YouTube channel
 - `medium`: A URL to the medium page
 - `github`: A URL to the github page
-- `token`: 
-- `dao`:
+- `ticker`: Token ticker
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project
-- `status`: 'live', 'building', 'closed'
-- `contract`: Project contract
+- `status`: 'building', 'launched', 'inactive'
+- `contracts`: Project contracts
+- `community asks`: What they could use help with?
 
 
 ### Categories
 
 Available classifications for 'categories':
 
+
 ```
-amm
-app
+infrastructure
+ecosystem
 defi
+gaming
+dao
 nft
-dex
+app
+guild
+funding
 exchange
-education
 explorer
-infra
-utility
 oracle
-stablecoin
-tools
 wallet
 validator
-guild
-dao
+indexer
+analytics
+marketplace
+tools
+education
+marketing
+devshop
 accelerator
+vc
+grants
+amm
+dex
+stablecoin
+lending
+derivatives
 ```
 
 ### Image Guidelines
