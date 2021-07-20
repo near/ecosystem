@@ -1,18 +1,19 @@
 ---
 slug: "skyward-finance"
-date: "04-01-2021"
 title: "Skyward Finance"
 oneliner: "Enable fair token distribution and price discovery for projects built on NEAR Protocol."
 website: "https://skyward.finance/"
 app: "https://app.skyward.finance/"
+whitepaper: "https://skyward.finance/whitepaper/"
 twitter: "https://twitter.com/skywardfinance"
 telegram: "https://t.me/skywardfinance"
 discord: "https://discord.gg/KKjQwCRvbV"
 medium: "https://medium.com/nearprotocol/everything-you-need-to-know-about-skyward-finance-before-the-first-token-sale-6e82fe305e1a"
 github: "https://github.com/skyward-finance/"
+ticker: "SKYWARD"
 logo: /img/skywardfinancelogo.png
 category: defi, app, launchpad
-status: live
+status: launched
 contract: "skyward.near"
 ---
 
