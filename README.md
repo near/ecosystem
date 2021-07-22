@@ -4,12 +4,26 @@
 
 This repository is the data source for the NEAR Ecosystem page, located at [near.org/ecosystem](https://near.org/ecosystem).
 
-# Contributing Guidelines
+Our aim is to have an accurate, up to date database of all entities in the NEAR ecosystem. Therefore, we have made this an open, community-driven repo which anyone can contribute to.
 
-All submissions to the NEAR Ecosystem are composed of two files: a Markdown file with headers, and an .svg or .png image. To add a new project to the ecosystem page, create both a new Markdown file in the `entities` directory and add a new .svg or .png image in the `img` directory.
+This is a living, breathing document and repo that will evolve over time as the community helps to maintain the map going forward.
+
+# How To Contribute & Guidelines
+
+We want to ensure the submission process captures as much information as possible pertaining to the entities added, while also remaining straightforward to contribute. 
+
+All submissions to the NEAR Ecosystem are composed of two files: a Markdown file (.md), and a .svg or .png image. 
+
+Adding a new entity to the ecosystem page only consists of two simple steps:
+1. Create both a new markdown file in the `entities` directory with headers pertaining to each data field, and a detailed description of the entity outside the table
+2. Add a new .svg or .png logo image in the `img` directory.
 
 
-### Markdown Headers
+<b>Logo Submission Guidelines</b>
+
+All .svg/.png files must be 100x100px. Do not embed any excessive raster image files: svg file sizes over 500kb will be rejected.
+
+Below is an example submission for Skyward Finance:
 
 ```
 ---
@@ -30,9 +44,17 @@ category: defi, app, launchpad
 status: launched
 contract: "skyward.near"
 ---
+
+About Skyward Finance
+
+“Detailed description…”
+
 ```
 
-Example Markdown headers are above (only input what is applicable for what you are adding). Below are guidelines for each field:
+
+### Markdown Headers
+
+Below are the available markdown headers for adding entities with guidelines for each header (only input what is applicable for what you are adding):
 
 - `slug`: The page URL that follows after near.org/ecosystem/
 - `title`: The title of the project
@@ -48,51 +70,24 @@ Example Markdown headers are above (only input what is applicable for what you a
 - `github`: A URL to the github page
 - `ticker`: Token ticker
 - `logo`: A relative path to the corresponding SVG/PNG image
-- `category`: A comma separated list of categories describing the project
+- `category`: A comma separated list of categories describing the project, see below for accepted list
 - `status`: 'building', 'launched', 'inactive'
-- `contracts`: Project contracts
+- `contracts`: Project contracts, please list each one as a separate header
 - `community asks`: What they could use help with?
 
 
 ### Categories
 
-Available classifications for 'categories':
+Available classifications for 'category' header:
+Please add multiple tags if needed and include the header category as well.
 
-
-```
-infrastructure
-ecosystem
-defi
-gaming
-dao
-nft
-app
-guild
-funding
-exchange
-explorer
-oracle
-wallet
-validator
-indexer
-analytics
-marketplace
-tools
-education
-marketing
-devshop
-accelerator
-vc
-grants
-amm
-launchpad
-dex
-stablecoin
-lending
-derivatives
-```
-
-### Image Guidelines
-
-All .svg/.png files must be 100x100px. Do not embed any excessive raster image files: svg filesizes over 500kb will be rejected.
-
+| infrastructure | ecosystem | defi | funding | dao | nft | gaming | app |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| exchange | education | amm | accelerator |
+| oracle | guild | dex | vc |
+| wallet | marketing | stablecoin | grants |
+| validator | devshop | lending |
+| indexer | derivatives |
+| analytics |
+| marketplace |
+| tools |
