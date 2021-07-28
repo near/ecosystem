@@ -16,7 +16,7 @@ All submissions to the NEAR Ecosystem are composed of two files: a Markdown file
 
 Adding a new entity to the ecosystem page only consists of two simple steps:
 1. Create both a new markdown file in the `entities` directory with headers pertaining to each data field, and a detailed description of the entity outside the table
-2. Add a new .svg or .png logo image in the `img` directory.
+2. Add a new .svg or .png logo image in the `img` directory. (If you are uploading a .png logo - 1.Fork 2.Upload 3.Create PR)
 
 
 <b>Logo Submission Guidelines</b>
