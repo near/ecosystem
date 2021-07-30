@@ -1,10 +1,8 @@
-<img src="https://near.org/wp-content/themes/near-19/assets/img/neue/logo.svg?t=1600963474" alt="near-logo" width="50%" border="0" />
+<img src="https://pbs.twimg.com/card_img/1421175204617805825/Luli-NNU?format=jpg&name=600x314" alt="near-logo" border="0" />
 
-# NEAR Ecosystem
+This repository is the data source for the community-sourced, core team curated NEAR Ecosystem page.
 
-This repository is the data source for the NEAR Ecosystem page, located at [near.org/ecosystem](https://near.org/ecosystem).
-
-Our aim is to have an accurate, up to date database of all entities in the NEAR ecosystem. Therefore, we have made this an open, community-driven repo which anyone can contribute to.
+Our aim is to curate an accurate, up-to-date database of all entities in the NEAR ecosystem. Therefore, we have made this an open, community-driven repo which anyone can contribute to.
 
 This is a living, breathing document and repo that will evolve over time as the community helps to maintain the map going forward.
 
