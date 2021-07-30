@@ -1,4 +1,4 @@
-<a href="https://ibb.co/QrPc0n8"><img src="https://i.ibb.co/r4xt9Mb/near-logo.png" alt="near-logo" border="0" /></a>
+<img src="https://near.org/wp-content/themes/near-19/assets/img/neue/logo.svg?t=1600963474" alt="near-logo" width="50%" border="0" />
 
 # NEAR Ecosystem
 
