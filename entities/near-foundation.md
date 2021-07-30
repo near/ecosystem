@@ -9,7 +9,7 @@ telegram: "https://t.me/cryptonear"
 discord: "https://near.chat"
 github: "https://github.com/near"
 logo: /img/near.png
-category: foundation, funding, governance
+category: infrastructure, funding
 status: live
 contract: foundation.near
 ---
