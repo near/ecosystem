@@ -12,7 +12,7 @@ medium: "https://medium.com/nearprotocol/everything-you-need-to-know-about-skywa
 github: "https://github.com/skyward-finance/"
 ticker: "SKYWARD"
 logo: /img/skywardfinancelogo.png
-category: defi, app, launchpad
+category: defi, app
 status: launched
 contract: "skyward.near"
 ---
