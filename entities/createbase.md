@@ -10,3 +10,9 @@ youtube: "https://www.youtube.com/channel/UCjvUUu3qlU9CvX9Z1Fz-9ZQ"
 logo: /img/createbase.svg
 category: guild, dao
 ---
+
+<b>About Createbase</b>
+
+Createbase is a NEAR guild that works to support projects/teams that are planning on building on Mintbase/NEAR.
+
+Mintbase.io allows users to create their own NFT “store/factory” on the blockchain. From there, the possibilities are almost limitless. We are just here to help get us a little closer to that limit.
