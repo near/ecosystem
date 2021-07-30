@@ -45,7 +45,7 @@ contract: "skyward.near"
 
 About Skyward Finance
 
-“Detailed description…”
+“Detailed description... (Up to 200 characters max)”
 
 ```
 
