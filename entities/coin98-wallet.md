@@ -9,6 +9,4 @@ logo: /img/coin98-wallet.png
 category: infrastructure, wallet
 ---
 
-<b>About Coin98 Wallet</b>
-
 Coin98 Wallet, Using a Decentralized Wallet With Experiences of a Centralized One. Safety of decentralization but convenience of centralization. UI and UX of the App are optimized by professionals with over five years of experience in the industry.
