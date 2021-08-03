@@ -11,10 +11,6 @@ category: app, staking, dao, defi
 status: On testnet
 ---
 
-<b>About Meta Pool</b>
 When staking with Meta Pool, users receive stNEAR tokens representing their share of the total supply of Metapool’s staked NEAR. stNEAR tokens can be used like any other NEP-141 Token to earn yields and lending rewards. The stNEAR price is updated every epoch to reflect NEAR Protocol staking rewards.
 
 Our goal is to solve the problems associated with Proof-of-Stake networks: illiquidity, immovability and accessibility. We aim to increase the liquidity of staked NEAR tokens and while distributing them  across multiple validators to improve censorship-resistance of the NEAR network.
-
-
----
