@@ -7,8 +7,6 @@ logo: /img/near-bet.png
 category: app
 ---
 
-<b>About NEAR.bet</b>
-
 NEAR.bet is NEAR Account Marketplace. It allows you to sell, bet and buy NEAR Account names.
 
 Founders, to allow you to find brilliant account names and place them onto the market for selling.
