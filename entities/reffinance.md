@@ -15,8 +15,6 @@ status: live
 contract: "ref-finance.near"
 ---
 
-<b> About Ref Finance </b>
-
 Ref Finance is a community-led, multi-purpose Decentralized Finance (DeFi) platform built on NEAR Protocol. Ref combines several core components: a decentralized exchange, lending, a synthetic asset issuer, and more -— into a single, synchronous DeFi stack.
 
 Ref will take full advantage of NEAR’s low fees ($0.005 per swap), one-to-two second finality, and WebAssembly-based runtime (hello, Rust smart contracts!) to rival even CEX costs and speeds and become a powerful addition to the increasingly multi-chain DeFi ecosystem.
