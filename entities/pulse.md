@@ -9,6 +9,4 @@ logo: /img/pulse.png
 category: app, oracle
 ---
 
-<b>About Pulse</b>
-
 Pulse is an open-source app for prediction markets, by the community, for the community. built on Flux Protocol.
