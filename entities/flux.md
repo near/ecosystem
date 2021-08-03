@@ -11,6 +11,4 @@ logo: /img/flux.png
 category: oracle
 ---
 
-<b>About Flux Protocol</b>
-
 Flux is a scalable open data protocol providing on-chain data for any asset, commodity, or event. Easily connect to Flux with the open source Javascript SDK to enable scalable, permission-less data.
