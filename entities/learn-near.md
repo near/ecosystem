@@ -9,6 +9,4 @@ logo: /img/learn-near.png
 category: ecosystem, defi
 ---
 
-<b>About Learn NEAR</b>
-
 Learn NEAR, A collection of learning materials for NEAR Protocol. Learn to build for Open Economy today. NEAR Protocol intends to educate the world on the Web3 stack. Earn NEAR while you Learn NEAR. Exclusive offers from NEAR. Early access to LearnNear.Club projects.
