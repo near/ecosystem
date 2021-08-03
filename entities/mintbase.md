@@ -14,8 +14,6 @@ status: live
 contract: mintbase.near
 ---
 
-<b> About Mintbase </b>
-
 Making non-fungible tokens useful. Create your own digital asset backed by you. Founded by Nate Geier.
 
 With AllTheThings, a company can easily create their own reward system and thus, speed up consumer spending as well as increase customer loyalty through programmable reward tokens (ERC-721) called Things.
