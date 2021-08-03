@@ -14,6 +14,4 @@ status: live
 contract: aurora.near
 ---
 
-<b> About Aurora </b>
-
 Aurora is an Ethereum Virtual Machine created by the stellar team at the NEAR Protocol, delivering a turn-key solution for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable and future-safe platform, with low transaction costs for their users.
