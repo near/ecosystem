@@ -14,6 +14,4 @@ status: live
 contract: foundation.near
 ---
 
-<b> About NEAR Foundation </b>
-
 A non-profit foundation headquartered in Switzerland that is responsible for contracting NEAR protocol maintainers, funding NEAR ecosystem development, and shepherding core governance of the NEAR protocol.
