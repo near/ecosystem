@@ -7,8 +7,6 @@ logo: /img/near-pixelparty.png
 category: app, nft
 ---
 
-<b>About Pixelparty</b>
-
 Pixelparty is kind of a NFT on the Near Blockchain with a total supply of only 600 tokens. Each token represents a subframe of the Pixelparty-Frame. Each token you own authorizes you to draw the frame (20x20px) you own in the way you want and be a part of the big picture. You can just draw something you like or even could buy several connecting frame and use it to advertise for something.
 
 Additionally we will make an announcement for a new biger NFT project later this year and all Frame-Owner at the moment of the announcement, will get a free NFT Token at the new project! Take your chance!
