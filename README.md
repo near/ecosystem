@@ -43,8 +43,6 @@ status: launched
 contract: "skyward.near"
 ---
 
-About Skyward Finance
-
 “Detailed description... (Up to 200 characters max)”
 
 ```
