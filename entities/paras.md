@@ -9,8 +9,6 @@ logo: /img/paras.png
 category: nft, marketplace
 ---
 
-<b>About Paras</b>
-
 Paras, All-in-one social DAC marketplace for creators and collectors.
 
 For Collectors: Discover beautiful art cards and collect them on a blockchain-based technology that prevents forgery and provides provable ownership.
