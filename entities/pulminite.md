@@ -9,6 +9,4 @@ logo: /img/pulminite.png
 category: nft, marketplace
 ---
 
-<b>About Pulminite</b>
-
 Pluminite is the place for rare NFT gems. Come mint your first three pieces with no upfront costs.
