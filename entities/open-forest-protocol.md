@@ -6,6 +6,6 @@ website: "https://www.openforestprotocol.org/"
 twitter: "https://twitter.com/OpenForest_"
 medium: "https://openforestprotocol.medium.com/"
 logo: /img/ofp.png
-category: ecosystem
+category: ecosystem, social
 status: building
 ---
