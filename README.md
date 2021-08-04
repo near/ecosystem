@@ -84,6 +84,6 @@ Please add multiple tags if needed and include the header category as well.
 | wallet | marketing | stablecoin | grants |
 | validator | devshop | lending |
 | indexer | derivatives |
-| analytics |
+| analytics | social |
 | marketplace |
 | tools |
