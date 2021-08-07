@@ -4,7 +4,7 @@ title: "Trust Wallet"
 oneliner: "Fast and secure Ethereum wallet that’s easy to use."
 website: "https://trustwallet.com/"
 twitter: "https://twitter.com/trustwalletapp"
-telegram: "https://t.me/trust_announcements
+telegram: "https://t.me/trust_announcements"
 medium: "https://medium.com/trustplatform"
 github: "https://github.com/trustwallet"
 logo: /img/trustwallet.png
