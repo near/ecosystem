@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/card_img/1421175204617805825/Luli-NNU?format=jpg&name=600x314" alt="near-logo" border="0" />
+<img src="https://repository-images.githubusercontent.com/384455580/fc80d841-e285-4238-981d-c40e45772469" alt="near-logo" border="0" />
 
 This repository is the data source for the community-sourced, core team curated NEAR Ecosystem page.
 
