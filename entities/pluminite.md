@@ -1,6 +1,6 @@
 ---
-slug: "pulminite"
-title: "Pulminite"
+slug: "pluminite"
+title: "Pluminite"
 oneliner: "The place for rare NFT gems."
 website: "https://pluminite.com/#/"
 twitter: "https://twitter.com/pluminite"
