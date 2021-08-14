@@ -6,6 +6,7 @@ website: "https://collab.land/"
 github: "https://collabland.freshdesk.com/support/home"
 logo: /img/collabland.png
 category: tools
+contract: collab-land.near
 ---
 
 Collab.Land leverages the power of identity through crypto currency to create a social space unique to a specific network of humans.
