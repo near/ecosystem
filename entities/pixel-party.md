@@ -5,6 +5,7 @@ oneliner: "NFT on the Near Blockchain with a total supply of only 600 tokens."
 website: "https://www.near-pixelparty.co/"
 logo: /img/near-pixelparty.png
 category: app, nft
+contract: pixelparty.near
 ---
 
 Pixelparty is kind of a NFT on the Near Blockchain with a total supply of only 600 tokens. Each token represents a subframe of the Pixelparty-Frame. Each token you own authorizes you to draw the frame (20x20px) you own in the way you want and be a part of the big picture. You can just draw something you like or even could buy several connecting frame and use it to advertise for something.
