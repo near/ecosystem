@@ -5,6 +5,7 @@ oneliner: "Hip-Hop Heads NFT auction marketplace."
 website: "https://nft.hiphop/"
 logo: /img/nearcrowd.png
 category: app, nft, marketplace
+contract: uhhmnft.near
 ---
 
 NEAR collaborated with Ed Young, co-founder of The Source magazine, and artist André LeRoy Davis to release a collection of non-fungible tokens featuring portraits of iconic figures from the 47-year history of hip-hop.
