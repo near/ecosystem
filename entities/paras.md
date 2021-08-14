@@ -7,6 +7,7 @@ twitter: "https://twitter.com/ParasHQ"
 medium: "https://medium.com/paras-media"
 logo: /img/paras.png
 category: nft, marketplace
+contract: contract.paras.near
 ---
 
 Paras, All-in-one social DAC marketplace for creators and collectors.
