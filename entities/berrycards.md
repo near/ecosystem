@@ -8,6 +8,7 @@ telegram: "https://t.me/NEARCrowd"
 github: "https://github.com/evgenykuzyakov/berry-hot"
 logo: /img/berry-cards.png
 category: app, nft
+contract: cards.berryclub.ek.near
 ---
 
 Berry Cards, Selecting berry hot boards from the berryclub.
