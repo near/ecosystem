@@ -11,7 +11,7 @@ medium: "https://medium.com/mintbase"
 logo: /img/mintbaselogo.png
 category: nft, marketplace
 status: live
-contract: "mintbase.near", "mintbase1.near"
+contract: mintbase.near, mintbase1.near
 ---
 
 Making non-fungible tokens useful. Create your own digital asset backed by you. Founded by Nate Geier.
