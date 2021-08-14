@@ -8,6 +8,7 @@ medium: "https://medium.com/alto-io"
 telegram: "https://t.me/outplaygames"
 logo: /img/opgames.png
 category: tools, gaming
+contract: oparcade-alpha.opgames.testnet, opgames.near
 ---
 
 OPGames is a suite of tools that enables game developers to transform their single player game of skills into a multiplayer tournament with crypto payouts.
