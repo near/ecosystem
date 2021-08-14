@@ -5,6 +5,7 @@ oneliner: "The easiest way to get a cool account name."
 website: "https://near.bet/"
 logo: /img/near-bet.png
 category: app
+contract: c.nearbet.near
 ---
 
 NEAR.bet is NEAR Account Marketplace. It allows you to sell, bet and buy NEAR Account names.
