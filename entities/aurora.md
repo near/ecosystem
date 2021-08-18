@@ -1,6 +1,5 @@
 ---
 slug: "aurora"
-date: "02-01-2021"
 title: "Aurora"
 oneliner: "Scaling Solution for Ethereum."
 website: "https://aurora.dev/"
