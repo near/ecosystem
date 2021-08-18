@@ -5,6 +5,6 @@ oneliner: "Filecoin is a decentralized storage network designed to store humanit
 website: "https://filecoin.io/"
 twitter: "https://twitter.com/Filecoin"
 github: "https://github.com/filecoin-project"
-logo: /img/filecoin.png
+logo: /img/filecoin.svg
 category: infrastructure
 ---
