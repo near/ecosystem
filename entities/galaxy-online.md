@@ -3,6 +3,7 @@ slug: "galaxy-online"
 title: "Galaxy Online"
 oneliner: "Epic MMO with blockchain-based game races."
 website: "https://galaxyonline.io/"
+telegram: "https://t.me/GalaxyOnline_en"
 logo: /img/galaxyonline.png
 category: app, gaming
 contract: galaxybank.near
