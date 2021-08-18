@@ -8,7 +8,7 @@ twitter: "https://twitter.com/helloiconworld"
 telegram: "https://t.me/hello_iconworld"
 medium: "https://medium.com/helloiconworld"
 github: "https://github.com/icon-project/"
-logo: /img/icon.svg
+logo: /img/icon.png
 status: "building"
 category: infrastructure
 ---
