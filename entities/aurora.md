@@ -9,7 +9,7 @@ discord: "https://discord.gg/atRsNsR7"
 github: "https://github.com/aurora-is-near"
 logo: /img/auroralogo.png
 category: infra, tools
-status: live
+status: launched
 contract: aurora.near
 ---
 
