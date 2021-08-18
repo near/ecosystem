@@ -8,7 +8,7 @@ telegram: "https://t.me/everstake_chat"
 github: "https://github.com/everstake"
 medium: "https://medium.com/everstake"
 logo: /img/everstake.png
-category: infrastructure
+category: infrastructure, validator
 status: launched
 ---
 
