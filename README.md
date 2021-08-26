@@ -67,7 +67,7 @@ Below are the available markdown headers for adding entities with guidelines for
 - `ticker`: Token ticker
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project, see below for accepted list
-- `status`: 'building', 'launched', 'inactive'
+- `status`: 'building', 'launched', 'mainnet', 'testnet'
 - `contract`: Project contract
 - `jobs`: Jobs available
 - `community asks`: What they could use help with from?
