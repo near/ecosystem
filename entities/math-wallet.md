@@ -16,7 +16,6 @@ category: infrastructure, wallet
 status: launched
 contract: ""
 community asks: ""
-
 ---
 
-“MathWallet is a multi-platform universal crypto wallet that supports multiple blockchains, cross-chain token exchanges, and a multi-chain DApp store”
+MathWallet is a multi-platform universal crypto wallet that supports multiple blockchains, cross-chain token exchanges, and a multi-chain DApp store
