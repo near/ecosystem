@@ -68,8 +68,9 @@ Below are the available markdown headers for adding entities with guidelines for
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project, see below for accepted list
 - `status`: 'building', 'launched', 'inactive'
-- `contracts`: Project contracts, please list each one as a separate header
-- `community asks`: What they could use help with?
+- `contract`: Project contract
+- `jobs`: Jobs available
+- `community asks`: What they could use help with from?
 
 
 ### Categories
