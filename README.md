@@ -78,8 +78,8 @@ Below are the available markdown headers for adding entities with guidelines for
 Available classifications for 'category' header:
 Please add multiple tags if needed and include the header category as well.
 
-| infrastructure | ecosystem | defi | funding | dao | nft | gaming | app |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| infrastructure | ecosystem | defi | funding | dao | nft | gaming | app | partner * |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | exchange | education | amm | accelerator |
 | oracle | guild | dex | vc |
 | wallet | marketing | stablecoin | grants |
@@ -88,3 +88,5 @@ Please add multiple tags if needed and include the header category as well.
 | analytics | social |
 | marketplace |
 | tools |
+
+* 'partner' classification for if $NEAR is used on other networks for something
