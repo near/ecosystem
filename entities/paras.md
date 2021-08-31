@@ -5,6 +5,8 @@ oneliner: "Create, Trade and Collect Digital Art Cards (DACs)."
 website: "https://paras.id/"
 twitter: "https://twitter.com/ParasHQ"
 medium: "https://medium.com/paras-media"
+telegram: "https://t.me/parashq"
+discord: "https://discord.gg/vWR2XBNupg"
 logo: /img/paras.png
 category: nft, marketplace
 contract: contract.paras.near
