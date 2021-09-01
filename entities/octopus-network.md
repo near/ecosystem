@@ -4,6 +4,7 @@ title: "Octopus Network"
 oneliner: "Where Web3.0 Happens."
 website: "https://oct.network/"
 twitter: "https://twitter.com/oct_network"
+telegram: "https://t.me/octopusnetwork"
 medium: "https://medium.com/@oct_network"
 github: https://github.com/octopus-network
 logo: /img/octopus-network.png
