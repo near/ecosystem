@@ -10,7 +10,7 @@ medium: "https://medium.com/verida"
 github: "https://github.com/verida"
 logo: /img/verida.svg
 status: "building"
-category: infrastructure, tools, wallet
+category: infrastructure, tools, wallet, guild
 ---
 
 Verida is a network of trusted and verified personal data owned and controlled by users, incentivizing them to unlock their data stored on centralized platforms. Builders access this data for new exciting web3 use cases.
