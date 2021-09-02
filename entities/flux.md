@@ -8,7 +8,7 @@ twitter: "https://twitter.com/fluxprotocol/"
 telegram: "https://t.me/fluxprotocol"
 github: "https://github.com/fluxprotocol"
 logo: /img/flux.png
-category: oracle
+category: oracle, guild
 ---
 
 Flux is a scalable open data protocol providing on-chain data for any asset, commodity, or event. Easily connect to Flux with the open source Javascript SDK to enable scalable, permission-less data.
