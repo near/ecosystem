@@ -86,7 +86,7 @@ Please add multiple tags if needed and include the header category as well.
 | validator | devshop | lending |
 | indexer | derivatives |
 | analytics | social |
-| marketplace |
+| marketplace | utility |
 | tools |
 
 * 'partner' classification for if $NEAR is used on other networks for something
