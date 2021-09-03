@@ -8,7 +8,7 @@ medium: "https://medium.com/paras-media"
 telegram: "https://t.me/parashq"
 discord: "https://discord.gg/vWR2XBNupg"
 logo: /img/paras.png
-category: nft, marketplace
+category: nft, marketplace, guild
 contract: contract.paras.near
 ---
 
