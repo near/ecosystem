@@ -7,7 +7,7 @@ twitter: "https://twitter.com/quidliprotocol"
 telegram: "https://t.me/arterraofficial"
 medium: "https://medium.com/quidli"
 logo: /img/quidli.png
-category: app
+category: app, ecosystem
 ---
 
 Quidli is building solutions that drive more inclusion in the future of work, starting with making employee equity distribution easier. We’re big proponents of enabling doers to become owners. And so today our focus is on helping small businesses manage and share their equity with their workers without wasting a lot of time and or money.
