@@ -6,7 +6,7 @@ website: "https://www.stake.gg/"
 twitter: "https://twitter.com/StakeGG"
 telegram: "https://t.co/NpH8YEQZu4?amp=1"
 logo: /img/stakegg.png
-category: app, gaming
+category: app, gaming, defi
 status: building
 ---
 
