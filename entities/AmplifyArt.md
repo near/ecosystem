@@ -9,7 +9,7 @@ discord: "https://discord.gg/AmplifyArt"
 medium: "https://amplify-art.medium.com/enriching-artists-with-decentralized-music-da7d876ae247"
 ticker: "BPM"
 logo: https://pbs.twimg.com/profile_images/1434934893318918145/9aGgDqA5_400x400.jpg
-category: music, defi, app
+category: music, defi, nft, app
 status: alpha
 ---
 
