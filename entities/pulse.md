@@ -6,7 +6,7 @@ website: "https://pulsemarket.eth.link/"
 twitter: "https://twitter.com/pulsemarkets"
 telegram: "https://t.me/pulsemarkets"
 logo: /img/pulse.png
-category: app, oracle, guild
+category: app, oracle, defi, guild
 ---
 
 Pulse is an open-source app for prediction markets, by the community, for the community. built on Flux Protocol.
