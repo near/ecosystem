@@ -43,7 +43,7 @@ status: launched
 contract: "skyward.near"
 ---
 
-“Detailed description... (Up to 200 characters max)”
+“Detailed description... (Up to 350 characters max)”
 
 ```
 
