@@ -70,7 +70,7 @@ Below are the available markdown headers for adding entities with guidelines for
 - `status`: 'building', 'launched', 'mainnet', 'testnet'
 - `contract`: Project contract
 - `jobs`: Jobs available
-- `community asks`: What they could use help with from?
+- `community asks`: What they could use help with from community?
 
 
 ### Categories
