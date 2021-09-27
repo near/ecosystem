@@ -3,6 +3,9 @@ slug: "able-finance"
 title: "Able Finance"
 oneliner: "An eco-friendly and permissionless DEX built on the NEAR network."
 website: "https://www.ablefinance.org/"
+twitter: "https://twitter.com/Able_Finance"
+telegram: "https://t.me/AbleFinance"
+medium: "https://medium.com/@Able_Finance"
 logo: /img/ablefinance.png
 status: building
 category: app, amm
