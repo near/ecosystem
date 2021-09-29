@@ -4,7 +4,7 @@ title: "Collab.Land"
 oneliner: "Tokenized community tooling."
 website: "https://collab.land/"
 github: "https://collabland.freshdesk.com/support/home"
-logo: /img/collabland.png
+logo: /img/collab-land.png
 category: tools
 contract: collab-land.near
 ---
