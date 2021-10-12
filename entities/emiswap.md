@@ -9,6 +9,7 @@ medium: "https://emiswap.medium.com/"
 logo: /img/emiswap.png
 category: amm, defi
 status: building
+funded: yes
 ---
 
 EmiSwap is an AMM DEX supplemented by an ESW governance token, NFT gamified mechanics, Ethereum gas fee compensation, and 100% exchange fee distribution among ESW holders.
