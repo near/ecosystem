@@ -8,6 +8,7 @@ twitter: "https://twitter.com/SolaceFi"
 discord: "https://discord.gg/7v8qsyepfu"
 logo: /img/solacefi.png
 category: defi
+funded: yes
 ---
 
 Solace is a decentralized coverage protocol, insurance-alternative, that allows DeFi liquidity providers and market makers to hedge their risk in the event of smart contract exploits.
