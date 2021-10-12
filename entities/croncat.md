@@ -12,7 +12,7 @@ logo: /img/croncatlogo.png
 category: app, ecosystem, infrastructure, tools, utility
 status: testnet
 contract: "manager.croncat.near"
-jobs: "Jobs available"
+funded: yes
 ---
 
 Croncat provides a general purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved “agent,” in an economically stable format. Croncat is launching on NEAR Protocol and will initially schedule function calls in $NEAR Token. Future integrations with other NEP-141 tokens are planned.
