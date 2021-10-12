@@ -9,6 +9,7 @@ medium: "https://medium.com/@meta_pool"
 github: "https://github.com/Narwallets/meta-pool"
 logo: /img/narwallets.png
 category: wallet
+funded: yes
 ---
 
 Narwallets is a NEAR crypto wallet & gateway to NEAR blockchain apps, Start exploring NEAR blockchain applications in seconds.
