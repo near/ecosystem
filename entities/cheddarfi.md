@@ -7,4 +7,5 @@ discord: "https://discord.gg/cyyYNtA3Sf"
 logo: /img/cheddarfi.png
 status: building
 category: app, defi, guild
+funded: yes
 ---
