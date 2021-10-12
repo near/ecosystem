@@ -9,6 +9,7 @@ medium: "https://medium.com/@InvestCurio"
 github: "https://github.com/CurioTeam"
 logo: /img/curioinvest.png
 category: ecosystem
+funded: yes
 ---
 
 CurioInvest drives you into the digital asset world. We believe in tokenization of real world assets
