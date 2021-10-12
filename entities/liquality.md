@@ -10,6 +10,7 @@ github: "https://github.com/liquality"
 logo: /img/liquality.png
 category: infrastructure, wallet
 status: building
+funded: yes
 ---
 
 The Liquality wallet is the first multi-chain browser extension wallet, making it the easiest way to swap crypto across blockchains. Send, receive and swap Bitcoin, Ethereum, ERC-20s, and Rootstock RBTC while maintaining full control of your assets.
