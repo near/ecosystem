@@ -7,4 +7,5 @@ discord: "https://discord.com/invite/ye9ymnWr5z"
 logo: /img/nearfolio-logo.png
 status: building
 category: app, nft, marketplace
+funded: yes
 ---
