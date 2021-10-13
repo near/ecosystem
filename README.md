@@ -84,9 +84,9 @@ Please add multiple tags if needed and include the header category as well.
 | oracle | guild | dex | vc |
 | wallet | marketing | stablecoin | grants |
 | validator | devshop | lending |
-| indexer | derivatives |
-| analytics | social |
-| marketplace | utility |
+| indexer | social | | derivatives |
+| analytics | utility |
+| marketplace
 | tools |
 
 * 'partner' classification for if $NEAR is used on other networks for something
