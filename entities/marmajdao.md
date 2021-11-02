@@ -5,6 +5,7 @@ oneliner: "The Marma J DAO exists with the purpose of supporting creatives who a
 website: "https://marmaj.org/"
 twitter: "https://twitter.com/itsmarmaj"
 telegram: "https://t.me/marmajdao"
+logo: /img/marmaj-logo.png
 category: guild
 ---
 
