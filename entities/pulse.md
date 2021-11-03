@@ -2,7 +2,7 @@
 slug: "pulse"
 title: "Pulse"
 oneliner: "Fair launch open-source app for prediction markets."
-website: "https://pulsemarket.eth.link/"
+website: "https://pulsemarkets.org"
 twitter: "https://twitter.com/pulsemarkets"
 telegram: "https://t.me/pulsemarkets"
 logo: /img/pulse.png
