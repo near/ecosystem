@@ -6,7 +6,7 @@ website: "https://corgis3d.com/"
 logo: /img/3d_corgis.png
 status: launched
 category: app, nft
-contract: "corgis3d.yifang.near"
+contract: corgis3d.yifang.near
 ---
 
 Corgis 3D is playful NFT
