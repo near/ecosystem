@@ -8,4 +8,5 @@ logo: /img/cheddarfi.png
 status: building
 category: app, defi, guild
 funded: yes
+contract: cheddar.near
 ---
