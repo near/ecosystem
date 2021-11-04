@@ -13,7 +13,7 @@ logo: /img/reffinancelogo.png
 category: defi, app, guild
 jobs: "https://ref-finance.medium.com/ref-finance-is-hiring-dc359d06156"
 status: live
-contract: ref-finance.near, ref-farming.near
+contract: ref-finance.near, ref-farming.near, v2.ref-farming.near
 ---
 
 Ref Finance is a community-led, multi-purpose Decentralized Finance (DeFi) platform built on NEAR Protocol. Ref combines several core components: a decentralized exchange, lending, a synthetic asset issuer, and more -— into a single, synchronous DeFi stack.
