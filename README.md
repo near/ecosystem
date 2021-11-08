@@ -2,6 +2,8 @@
 
 This repository is the data source for the community-sourced, core team curated NEAR Ecosystem page.
 
+**You can also use [this form](https://nearprotocol1001.typeform.com/submit-project) to submit a project to this database.**
+
 Our aim is to curate an accurate, up-to-date database of all entities in the NEAR ecosystem. Therefore, we have made this an open, community-driven repo which anyone can contribute to.
 
 This is a living, breathing document and repo that will evolve over time as the community helps to maintain the map going forward.
@@ -40,7 +42,7 @@ ticker: "SKYWARD"
 logo: /img/skywardfinancelogo.png
 category: defi, app
 status: launched
-contract: "skyward.near"
+contract: skyward.near
 ---
 
 “Detailed description... (Up to 350 characters max)”
@@ -68,7 +70,7 @@ Below are the available markdown headers for adding entities with guidelines for
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project, see below for accepted list
 - `status`: 'building', 'launched', 'mainnet', 'testnet'
-- `contract`: Project contract
+- `contract`: Project contract id
 - `jobs`: Jobs available
 - `community asks`: What they could use help with from community?
 
