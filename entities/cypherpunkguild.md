@@ -7,6 +7,7 @@ twitter: "https://twitter.com/CypherpunkGuild"
 discord: "https://matrix.to/#/#cypherpunkguild:matrix.org"
 medium: "https://cypherpunkguild.medium.com/"
 category: guild, grants
+logo: /img/cypherpunkguild.svg
 ---
 
 “Cypherpunk Guild aspires to bring the following to NEAR:
