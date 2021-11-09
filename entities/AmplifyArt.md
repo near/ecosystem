@@ -11,6 +11,7 @@ ticker: "BPM"
 logo: https://pbs.twimg.com/profile_images/1434934893318918145/9aGgDqA5_400x400.jpg
 category: music, defi, nft, app
 status: alpha
+contract: amplifyapp.near
 ---
 
 “Amplify Art is building a decentralized music platform empowering Artists and their Fans. We use NFTs to enable artists to have complete control over their music, pricing, and distribution.”
