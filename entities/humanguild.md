@@ -6,6 +6,7 @@ website: "https://humanguild.io/"
 twitter: "https://twitter.com/humanguild"
 discord: "https://discord.gg/bUu2hcdzxW"
 category: guild, grants
+logo: /img/Humanguild.png
 ---
 
 “The Human Guild's mission is to increase the number of people earning cryptocurrencies every day.”
