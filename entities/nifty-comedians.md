@@ -7,4 +7,5 @@ twitter: "https://twitter.com/NiftyComedians"
 discord: "https://discord.gg/NiftyComedians"
 logo: /img/niftycomedians.png
 category: nft
+contract: market-nifty.near
 ---
