@@ -4,6 +4,7 @@ title: "NEAR UK"
 oneliner: "NEAR community based in the UK"
 telegram: "https://t.me/joinchat/UuqVppNv2rLQC0Qq"
 category: guild
+logo: /img/near-uk.png
 ---
 
 “NEAR community based in the UK”
