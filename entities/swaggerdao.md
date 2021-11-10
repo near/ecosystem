@@ -6,6 +6,7 @@ website: "https://swaggerdao.com/"
 twitter: "https://twitter.com/SwaggerDao"
 telegram: "https://t.me/swaggerdao"
 category: guild
+logo: /img/swagger-dao.png
 ---
 
 “SWAGGER is an international network of designers, artists, creatives and developers summoned around the common purpose of bringing fashion NFTs to the mainstream. Based within the NEAR ecosystem, our work is centered around the vision of:
