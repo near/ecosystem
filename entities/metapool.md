@@ -9,7 +9,7 @@ github: "https://github.com/Narwallets/meta-pool"
 logo: /img/metapool_logo.png
 category: app, staking, dao, defi
 status: launched
-contract: "meta-pool.near"
+contract: meta-pool.near
 ---
 
 When staking with Meta Pool, users receive stNEAR tokens representing their share of the total supply of Metapool’s staked NEAR. stNEAR tokens can be used like any other NEP-141 Token to earn yields and lending rewards. The stNEAR price is updated every epoch to reflect NEAR Protocol staking rewards.
