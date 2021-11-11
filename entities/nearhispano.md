@@ -8,6 +8,8 @@ telegram: "https://t.me/NEARHispano"
 medium: "https://nearhispano.medium.com/"
 youtube: "https://www.youtube.com/channel/UCGJRj-rzdgow2nIAZ_pTkbQ"
 category: guild, education
+logo: /img/near-hispano.png
+
 ---
 
 “Spanish speaking community of NEAR Protocol”
