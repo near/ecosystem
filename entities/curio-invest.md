@@ -12,8 +12,8 @@ category: ecosystem
 funded: yes
 ---
 
-CurioInvest drives you into the digital asset world. We believe in tokenization of real world assets
+Accelerate tokenization of real world assets as well as allow the community to make investment decisions or govern utility of the ecosystem.CurioInvest drives you into the digital asset world. We believe in tokenization of real world assets.
 
-We build and use unique crosschain solutions. Whether you invest into a tokenized car such as a Ferrari F12tdf asset token or earn on CurioDAO DeFi CGT, you become a part of this community. As only together we make real changes
+We build and use unique crosschain solutions. Whether you invest into a tokenized car such as a Ferrari F12tdf asset token or earn on CurioDAO DeFi CGT, you become a part of this community. As only together we make real changes.
 
-Accelerate tokenization of real world assets as well as allow the community to make investment decisions or govern utility of the ecosystem
+Accelerate tokenization of real world assets as well as allow the community to make investment decisions or govern utility of the ecosystem.

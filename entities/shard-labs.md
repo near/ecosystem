@@ -11,7 +11,4 @@ category: infrastructure, tools
 funded: yes
 ---
 
-Marnotaur is an AMM-based, cross-chain liquidity protocol for secure decentralized margin trading. Powered by its own margin pools and large external DEXs like Uniswap, the protocol allows users to multiply their gains as well as drastically increase trading efficiency and asset diversification in the DeFi market.
- 
-Marnotaur can offer exclusive features such as distribution of liquidation fees to stakeholders, permissionless pools and under-collateralized access to stablecoins. The protocol is compatible with all other DeFi protocols, networks and multiple blockchains.
-
+We are a startup founded in 2019, and since then we accompany our clients on the path to a holistic digital transformation. Our agile team of consultants and developers, with office in Zagreb, ensures all components of a successful project execution, from strategy and conception to the implementation of digital solutions. Profound tech knowledge coupled with business understanding is what allows us to create unique solutions that power enterprises, their employees, and customers every day.

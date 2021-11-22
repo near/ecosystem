@@ -2,7 +2,7 @@
 slug: "taker-protocol"
 title: "Taker Protocol"
 oneliner: "A multi-strategy NFT loan protocol to optimize liquidation on NFT assets across chains."
-website: "https://twitter.com/TakerProtocol"
+website: "https://taker.org/"
 twitter: "https://twitter.com/TakerProtocol"
 telegram: "https://t.me/taker_protocol"
 discord: "https://discord.com/invite/9rVMwxYP8z"

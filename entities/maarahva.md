@@ -2,7 +2,7 @@
 slug: "maarahva-platvorm"
 title: "Maarahva Platvorm"
 oneliner: "Maarahva Platvorm Guild for the native people of Estonia."
-website: "www.maarahvas.ee"
+website: "https://www.maarahvas.ee"
 category: guild
 logo: /img/Maarahva.png
 ---
