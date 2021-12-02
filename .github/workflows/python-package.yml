@@ -29,6 +29,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install os re json csv
 
-    - name: scrape md to json
-      run: |
-        scrape
+      - name: scrape md to json
+        run: |
+          scrape
