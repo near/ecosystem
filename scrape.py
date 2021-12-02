@@ -3,13 +3,12 @@ import re
 import json
 import csv
 
-dirname = os.path.dirname(__file__)
+
 
 #location of NEAR ecosystem entities
-directory = "/Users/james_datacult/Documents/GitHub/jschintz-ecosystem/Untitled/entities"
+directory = os.path.dirname(__file__)
 #location for output json file
-output_append = "/Users/james_datacult/Documents/GitHub/jschintz-ecosystem/Untitled/scrape/apps.json"
-
+output_append = "entities.json"
 
 #open file, get md table, convert, store to json
 def near_entitity_md_to_json(directory, filename, path):
