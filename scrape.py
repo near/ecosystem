@@ -4,11 +4,11 @@ import json
 import csv
 
 
-
-#location of NEAR ecosystem entities
-directory = os.path.dirname(__file__)
-#location for output json file
-output_append = "entities.json"
+location = os.path.dirname(__file__)
+#folder of NEAR ecosystem entities
+directory = os.path.join(location, 'entities/')
+#output json file
+output_append = os.path.join(location, 'entities.json')
 
 #open file, get md table, convert, store to json
 def near_entitity_md_to_json(directory, filename, path):
