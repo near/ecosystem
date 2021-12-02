@@ -26,4 +26,4 @@ jobs:
           
       - name: scrape md to json
         run: |
-          python scrape.py
+          python scrape/scrape.py
