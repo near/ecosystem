@@ -7,7 +7,7 @@ twitter: "https://twitter.com/ARterraLabs"
 telegram: "https://t.me/arterraofficial"
 github: "https://github.com/ARterraCo"
 logo: /img/arterra.png
-category: app, nft,
+category: app, nft
 ---
 
 ARterra is A engagement platform designed for streamers, esports teams, and traditional sports franchises to engage and incentivize fans in dynamic ways.
