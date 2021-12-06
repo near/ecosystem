@@ -10,6 +10,7 @@ logo: /img/kurtosislogo.png
 status: building
 category: tools
 funded: yes
+contract: kurtosistech.near
 ---
 
 Kurtosis is a platform for running whole-system tests against distributed systems with the frequency and repeatability of unit tests.
