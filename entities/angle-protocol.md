@@ -11,6 +11,7 @@ logo: /img/angle-protocol-logo.png
 status: building
 category: defi
 funded: yes
+contract: anglelabs.near
 ---
 
 Angle will be the first decentralized, capital efficient and over-collateralized stablecoin protocol
