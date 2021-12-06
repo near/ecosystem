@@ -89,5 +89,6 @@ Please add multiple tags if needed and include the header category as well.
 | indexer | social | derivatives |
 | analytics | utility |
 | tools |
+| payments |
 
 * 'partner' classification for if $NEAR is used on other networks for something
