@@ -10,7 +10,7 @@ telegram: "https://t.me/ref_finance"
 discord: "https://discord.gg/KKjQwCRvbV"
 github: "https://github.com/ref-finance"
 logo: /img/reffinancelogo.png
-category: defi, app
+category: defi, app, dex
 jobs: "https://ref-finance.medium.com/ref-finance-is-hiring-dc359d06156"
 status: live
 contract: ref-finance.near, ref-farming.near, v2.ref-farming.near
