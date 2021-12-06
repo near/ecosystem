@@ -11,7 +11,7 @@ github: "https://github.com/Cron-Near/"
 logo: /img/croncatlogo.png
 category: app, ecosystem, infrastructure, tools, utility
 status: testnet
-contract: "manager.croncat.near"
+contract: cron.near, manager.croncat.near
 funded: yes
 ---
 
