@@ -8,7 +8,7 @@ telegram: "https://t.me/bitkeep"
 discord: "https://discord.gg/qYTatUzNjM"
 medium: "https://medium.com/@bitkeepblog"
 github: "https://github.com/bitkeepcom"
-logo: /img/bitkeep-logo.svg
+logo: /img/bitkeep-logo.png
 status: building
 category: wallet, app
 contract: bitkeepcom.near
