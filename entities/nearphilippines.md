@@ -7,7 +7,7 @@ telegram: "https://t.me/NEARPhilippines"
 discord: "https://discord.gg/TzhYHnRmm2"
 medium: "https://medium.com/nearphilippines"
 youtube: "https://www.youtube.com/channel/UCRUT0Z3TgwgrH8ns2WreJsQ/videos"
-category: guild
+category: guild, geographical
 logo: /img/near-philippines.png
 
 ---
