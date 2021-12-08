@@ -3,7 +3,7 @@ slug: "marnotaur"
 title: "Marnotaur"
 oneliner: "AMM-based, cross-chain liquidity protocol for secure decentralized margin trading."
 website: "https://marnotaur.com"
-twitter: "https://twitter.com/marnotaur?s=20"
+twitter: "https://twitter.com/marnotaur"
 telegram: "https://t.me/marnotaur"
 discord: "https://discord.gg/VqYGFWYhAa"
 logo: /img/marnotaurlogo.png

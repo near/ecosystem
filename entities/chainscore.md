@@ -4,10 +4,10 @@ title: "ChainScore"
 oneliner: "Credit Scoring Protocol for DeFi."
 website: "https://chainscore.finance/"
 twitter: "https://twitter.com/ChainScoreHQ"
+github: "https://github.com/Chainscore"
 discord: "https://discord.gg/TaHXKnrgkb"
 whitepaper: "https://drive.google.com/file/d/1RcLBQIde-eLaDiXD8yqXrub2jKmoOlXH/view"
-github: "https://github.com/Chainscore/contracts/blob/main/README.md"
-logo: /img/chainscore-logo.png.png
+logo: /img/chainscore-logo.png
 category: tools, defi
 contract: chainscore.near
 ---

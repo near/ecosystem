@@ -9,7 +9,7 @@ medium: "https://blog.autonomynetwork.io/"
 github: "https://github.com/Autonomy-Network"
 logo: /img/autonomylogo.png
 status: building
-category: infra
+category: infrastructure
 jobs: "https://angel.co/company/autonomy-network-1"
 funded: yes
 ---

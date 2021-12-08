@@ -3,7 +3,7 @@ slug: "nativo-nft"
 title: "Nativo NFT"
 oneliner: "NFT Marketplace focused on hispanic artists."
 website: "https://nativonft.app"
-twitter: "twitter.com/nativonft"
+twitter: "https://twitter.com/nativonft"
 discord: "https://discord.gg/MrAeMYyt7K"
 github: "https://github.com/cloudmex/Nativo-NFT"
 logo: /img/nativonft-logo.png

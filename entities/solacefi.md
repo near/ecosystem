@@ -3,9 +3,9 @@ slug: "solacefi"
 title: "Solace.Fi"
 oneliner: "Solace is a decentralized protocol that provides coverage for liquidity providers in DeFi."
 website: "https://solace.fi/"
-whitepaper: "https://whitepaper.solace.fi/"
 twitter: "https://twitter.com/SolaceFi"
 discord: "https://discord.gg/7v8qsyepfu"
+whitepaper: "https://whitepaper.solace.fi/"
 logo: /img/solacefi.png
 category: defi
 funded: yes
