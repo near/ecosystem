@@ -7,7 +7,7 @@ twitter: "https://twitter.com/NEARCrowd/photo"
 telegram: "https://t.me/NEARCrowd"
 github: "https://github.com/NEARCrowd"
 logo: /img/nearcrowd.png
-category: app, guild
+category: app, guild, ecosystem project	
 contract: "app.nearcrowd.near"
 ---
 
