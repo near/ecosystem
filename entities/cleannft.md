@@ -4,7 +4,7 @@ title: "Clean NFT Guild"
 oneliner: "Our mission is educate and raise awareness about energy efficient blockchains and NFT platforms that are committed to lessen the impact on our environment"
 website: "https://cleannfts.org/"
 discord: "http://www.discord.io/cleannfts"
-category: guild
+category: guild, theme based guild	
 logo: /img/cleanNFTs.png
 ---
 
