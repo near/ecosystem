@@ -6,7 +6,7 @@ website: "https://nearnft.club/"
 twitter: "https://twitter.com/NearNft"
 telegram: "https://t.me/nearnftclub"
 medium: "https://medium.com/@nearnft"
-category: guild
+category: guild, theme based guild	
 logo: /img/nearnftclub.png
 ---
 
