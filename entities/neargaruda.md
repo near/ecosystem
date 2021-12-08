@@ -3,7 +3,7 @@ slug: "near-garuda"
 title: "NEAR Garuda"
 oneliner: "NEAR community based in Indonesia."
 telegram: "https://t.me/neargaruda"
-category: guild
+category: guild, geographical
 ---
 
 “NEAR community based in Indonesia.”
