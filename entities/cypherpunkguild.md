@@ -6,7 +6,7 @@ website: "https://cypherpunkguild.org/"
 twitter: "https://twitter.com/CypherpunkGuild"
 discord: "https://matrix.to/#/#cypherpunkguild:matrix.org"
 medium: "https://cypherpunkguild.medium.com/"
-category: guild, grants
+category: guild, grants, theme based guild	
 logo: /img/cypherpunkguild.svg
 ---
 
