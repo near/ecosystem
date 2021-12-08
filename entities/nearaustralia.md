@@ -3,7 +3,7 @@ slug: "near-australia"
 title: "NEAR Australia"
 oneliner: "NEAR community based in Australia"
 telegram: "https://t.me/near_au"
-category: guild
+category: guild, geographical
 logo: /img/near-australia.png
 ---
 
