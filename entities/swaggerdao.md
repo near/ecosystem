@@ -5,7 +5,7 @@ oneliner: "SWAGGER is an international network of designers, artists, creatives 
 website: "https://swaggerdao.com/"
 twitter: "https://twitter.com/SwaggerDao"
 telegram: "https://t.me/swaggerdao"
-category: guild
+category: guild, awareness, theme based guild	
 logo: /img/swagger-dao.png
 ---
 
