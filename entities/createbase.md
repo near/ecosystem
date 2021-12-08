@@ -8,7 +8,7 @@ twitter: "https://twitter.com/Createbase1"
 telegram: "https://t.me/creatorsNEAR"
 youtube: "https://www.youtube.com/channel/UCjvUUu3qlU9CvX9Z1Fz-9ZQ"
 logo: /img/createbase.svg
-category: guild, dao
+category: guild, dao, ecosystem project	
 ---
 
 Createbase is a NEAR guild that works to support projects/teams that are planning on building on Mintbase/NEAR.
