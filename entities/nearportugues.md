@@ -6,7 +6,7 @@ twitter: "https://twitter.com/NearPortugues"
 telegram: "https://t.me/near_pt"
 discord: "https://discord.gg/2zxtuSejSN"
 youtube: "https://www.youtube.com/channel/UCxv8x9xr9utTpRNMYCVxmZA/videos"
-category: guild
+category: guild, geographical
 logo: /img/near-portugues.png
 ---
 
