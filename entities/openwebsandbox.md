@@ -6,7 +6,7 @@ website: "https://nearguilds.com/sandbox/"
 twitter: "https://twitter.com/openwebsandbox"
 discord: "https://discord.com/invite/457bWnJqkQ"
 medium: "https://nearopenwebsandbox.medium.com/"
-category: guilds
+category: guilds, theme based guild, awareness	
 ---
 
 “The Sandbox is a place—with its own discord channel—for contributors, prospective Guild leaders, and veteran members of the NEAR community to collaborate with one another in helping develop and promote the NEAR Ecosystem.”
