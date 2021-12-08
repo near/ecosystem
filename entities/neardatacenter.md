@@ -5,7 +5,7 @@ oneliner: "A guild to fully utilize the power of data to increase the visibility
 twitter: "https://twitter.com/CenterNear"
 telegram: "https://t.me/joinchat/VF7l9wGIS3UzZDcx"
 discord: "https://discord.com/invite/wM4aJV585e"
-category: guild
+category: guild, theme based guild	
 logo: /img/near-data-center.png
 ---
 
