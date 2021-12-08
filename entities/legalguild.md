@@ -6,7 +6,7 @@ website: "https://www.nearlegal.com/"
 twitter: "https://twitter.com/GuildNear"
 telegram: "https://t.me/NEARLegal"
 medium: "https://medium.com/@legalguildnear"
-category: guild
+category: guild, theme based guild
 logo: /img/near-legal.png
 ---
 
