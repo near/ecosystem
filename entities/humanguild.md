@@ -5,7 +5,7 @@ oneliner: "The Human Guild is an open group of founders and creators who believe
 website: "https://humanguild.io/"
 twitter: "https://twitter.com/humanguild"
 discord: "https://discord.gg/bUu2hcdzxW"
-category: guild, grants
+category: guild, grants, theme based guild,	awareness
 logo: /img/Humanguild.png
 ---
 
