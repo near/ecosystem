@@ -3,7 +3,7 @@ slug: "near-korea"
 title: "NEAR Korea"
 oneliner: "Korean speaking community of NEAR Protocol"
 telegram: "https://t.me/nearprotocol_korea"
-category: guild
+category: guild, geographical
 logo: /img/near-korea.png
 ---
 
