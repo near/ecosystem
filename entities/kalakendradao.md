@@ -6,7 +6,7 @@ website: "https://gov.near.org/t/kalakendradao-introudction/9561"
 twitter: "https://twitter.com/KalaKendraDAO"
 telegram: "https://t.me/KalaKendraDAO"
 
-category: guild
+category: guild, geographical, theme based guild	
 logo: img/kalakendradao.png
 ---
 
