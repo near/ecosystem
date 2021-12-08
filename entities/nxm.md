@@ -7,7 +7,7 @@ twitter: "https://twitter.com/nxmlive"
 telegram: "https://t.me/theNxM"
 discord: "https://discord.com/invite/rpjuSXrSdD"
 youtube: "https://www.youtube.com/watch?v=6xZeyNe3oJQ"
-category: guild
+category: guild, ecosystem project,	theme based guild	
 logo: /img/nxm.png
 ---
 
