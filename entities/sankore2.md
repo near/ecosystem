@@ -6,7 +6,7 @@ website: "https://www.sankore2.com/"
 twitter: "https://twitter.com/sankore2_0"
 telegram: "https://t.me/sankore2"
 medium: "https://medium.com/sankore2-0"
-category: guild
+category: guild, geographical, awareness, theme based guild
 logo: /img/sankore-2.png
 ---
 
