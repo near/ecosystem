@@ -6,7 +6,7 @@ twitter: "https://twitter.com/HypeDAO"
 telegram: "https://t.me/hypedao"
 discord: "https://discord.gg/SVbWqanC"
 medium: "https://medium.com/hypedao"
-category: guild
+category: guild, theme based guild	
 logo: /img/hypedao.png
 ---
 
