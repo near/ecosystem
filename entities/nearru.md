@@ -6,7 +6,7 @@ website: "https://near.ai/ru-guide"
 twitter: "https://twitter.com/near_protocol"
 telegram: "https://t.me/near_protocol"
 medium: "https://near-ru.medium.com/"
-category: guild
+category: guild, geographical
 logo: img/near-russia.png
 
 ---
