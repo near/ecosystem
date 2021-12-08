@@ -6,7 +6,7 @@ website: "https://nearguilds.com"
 twitter: "https://twitter.com/4ntsguild"
 medium: "https://medium.com/nearprotocol"
 youtube: "https://www.youtube.com/channel/UCuiVANhh4shJrQbh2gNFV7w"
-category: guild, marketing, social
+category: guild, marketing, social, awareness
 logo: /img/4nts.png
 ---
 
