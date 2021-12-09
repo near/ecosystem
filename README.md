@@ -69,6 +69,7 @@ Below are the available markdown headers for adding entities with guidelines for
 - `ticker`: Token ticker
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project, see below for accepted list
+- `country`: country/region of the guild
 - `status`: 'building', 'launched', 'mainnet', 'testnet'
 - `contract`: Project contract id
 - `jobs`: Jobs available
@@ -87,8 +88,9 @@ Please add multiple tags if needed and include the header category as well.
 | wallet | marketing | stablecoin | grants |  |  |  | ecosystem project |
 | validator | devshop | lending |  |  |  |  | awareness |
 | indexer | social | derivatives |  |  |  |  | theme based guild |
-| analytics | utility |
-| tools | dao |
-| payments |
+| analytics | utility |  |  |  |  |  | education |
+| tools | dao |  |  |  |  |  | open web aligned community |
+| payments |  |  |  |  |  |  | service |
+|  |  |  |  |  |  |  | creative |
 
 * 'partner' classification for if $NEAR is used on other networks for something
