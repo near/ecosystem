@@ -70,6 +70,7 @@ Below are the available markdown headers for adding entities with guidelines for
 - `logo`: A relative path to the corresponding SVG/PNG image
 - `category`: A comma separated list of categories describing the project, see below for accepted list
 - `country`: country/region of the guild
+- `language`: native launguage of the guild
 - `status`: 'building', 'launched', 'mainnet', 'testnet'
 - `contract`: Project contract id
 - `jobs`: Jobs available
@@ -81,16 +82,29 @@ Below are the available markdown headers for adding entities with guidelines for
 Available classifications for 'category' header:
 Please add multiple tags if needed and include the header category as well.
 
+* 'partner' classification for if $NEAR is used on other networks for something
+
 | infrastructure | ecosystem | defi | funding | nft | gaming | app | guild | partner * |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| exchange | education | amm | accelerator | marketplace |  |  | geographical | 
+| exchange | education | amm | accelerator | marketplace | metaverse |  | geographical | 
 | oracle | guild | dex | vc |  |  |  | validator |
 | wallet | marketing | stablecoin | grants |  |  |  | ecosystem project |
 | validator | devshop | lending |  |  |  |  | awareness |
 | indexer | social | derivatives |  |  |  |  | theme based guild |
 | analytics | utility |  |  |  |  |  | education |
 | tools | dao |  |  |  |  |  | open web aligned community |
-| payments |  |  |  |  |  |  | service |
+| payments | event |  |  |  |  |  | service |
+|  |  |  |  |  |  |  | music |
+|  |  |  |  |  |  |  | art |
+|  |  |  |  |  |  |  | earn |
 |  |  |  |  |  |  |  | creative |
-
-* 'partner' classification for if $NEAR is used on other networks for something
+|  |  |  |  |  |  |  | content |
+|  |  |  |  |  |  |  | social media |
+|  |  |  |  |  |  |  | swag |
+|  |  |  |  |  |  |  | growth hacking |
+|  |  |  |  |  |  |  | design |
+|  |  |  |  |  |  |  | trading |
+|  |  |  |  |  |  |  | legal |
+|  |  |  |  |  |  |  | development |
+|  |  |  |  |  |  |  | privacy |
+|  |  |  |  |  |  |  | data |
