@@ -9,7 +9,7 @@ youtube: "https://www.youtube.com/channel/UC3-JKiqxozZySeLfyUnrHMQ"
 blog: "https://vitalpoint.ai/blog/"
 github: "https://github.com/VitalPointAI"
 logo: /img/vitalpointai.png
-category: ecosystem, guild, education, devshop, theme based guild	
+category: ecosystem, guild, education, devshop, theme based guild, development, open web aligned community	
 ---
 
 Vital Point AI leverages NEAR protocol as a foundational pillar of everything it does. Vital Point AI is an inclusive and diverse group of people of all skill levels and backgrounds learning and collaboratively building exciting projects on NEAR.
