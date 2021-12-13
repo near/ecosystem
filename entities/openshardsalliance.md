@@ -7,7 +7,7 @@ twitter: "https://twitter.com/openshards"
 telegram: "https://t.me/joinchat/K6T3zE1oaOlI6Rj5zxwSpQ"
 discord: "https://discord.gg/t9Kgbvf"
 github: "https://github.com/near-guildnet"
-category: guild, validator
+category: guild, validator, development
 logo: /img/open-shards-alliance.png
 ---
 
