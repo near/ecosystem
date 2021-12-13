@@ -5,7 +5,7 @@ oneliner: "Financial guild aimed at fundamental and technical analysis of NEAR p
 website: "https://www.merchantsofnear.com/"
 twitter: "https://twitter.com/MerchantsNear"
 telegram: "https://t.me/joinchat/9p64iHVo1e41ZjBh"
-category: guild, theme based guild, ecosystem project	
+category: guild, theme based guild, ecosystem project, trading
 logo: /img/merchants-of-near.png
 ---
 
