@@ -6,7 +6,7 @@ website: "https://nearweek.com/"
 twitter: "https://twitter.com/nearweek"
 telegram: "https://t.me/nearweek"
 medium: "https://nearweek.medium.com/"
-category: guild, awareness
+category: guild, awareness, content, social media
 logo: /img/near-week.png
 ---
 
