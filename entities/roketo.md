@@ -7,7 +7,7 @@ twitter: "https://twitter.com/roketostream"
 telegram: "https://t.me/roketochat"
 category: app, utility
 logo: /img/roketo.png
-
+contract: roketodapp.near
 ---
 
 For a freelancer, artist, community member, new project, or any other earner — own your funds at any moment. Don't be deluded with payroll, all your finances become predictable and accessible. Withdraw funds at any moment without locks, penalties and fees.
