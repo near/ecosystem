@@ -9,7 +9,7 @@ medium: "https://medium.com/ceramic"
 github: "https://github.com/ceramicnetwork"
 logo: /img/ceramic.png
 category: infrastructure
-status: launched, mainnet
+status: launched
 ---
 
 Ceramic, The dataweb for open applications. The protocol for a connected, interoperable web without silos. Powered by self-sovereign identities and verifiable documents.

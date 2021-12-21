@@ -10,7 +10,7 @@ discord: "https://discord.gg/89cSHH7"
 medium: "https://medium.com/mintbase"
 logo: /img/mintbaselogo.png
 category: nft, marketplace
-status: live
+status: launched
 contract: mintbase.near, mintbase1.near
 ---
 

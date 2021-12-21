@@ -10,7 +10,7 @@ discord: "https://near.chat"
 github: "https://github.com/near"
 logo: /img/near.png
 category: infrastructure, funding
-status: live
+status: launched
 contract: foundation.near
 ---
 
