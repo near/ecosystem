@@ -4,7 +4,6 @@ title: "Tip Jar Live"
 oneliner: "Empowering Live Entertainers to create sustainable income while deepening their connections to their fans."
 website: "https://tipjarlive.com"
 discord: "https://discord.gg/kZ9XHnwa"
-medium: "https://medium.com/@apollo42app"
 logo: /img/tip-jar-live-logo.png
 status: building
 category: defi, social, nft, tools

@@ -5,7 +5,7 @@ oneliner: "The Near Tiger Academy is a high-class collection of 2,000 algorithmi
 website: "https://neartiger.academy"
 twitter: "https://twitter.com/Near_Tiger"
 discord: "https://discord.gg/mS4MUy6WM4"
-medium: "https://medium.com/@neartigeracademy/introducing-tiger-academy-41400515c85b"
+medium: "https://medium.com/@neartigeracademy/"
 logo: /img/near-tiger-academy-logo.png
 status: building
 category: nft

@@ -5,7 +5,6 @@ oneliner: "Building the augmented reality metaverse."
 website: "https://illust.space"
 twitter: "https://twitter.com/illustspace"
 discord: "https://discord.gg/98qqje5"
-medium: "https://medium.com/@apollo42app"
 logo: /img/illust-space-logo.png
 status: launched
 category: nft, gaming, metaverse
