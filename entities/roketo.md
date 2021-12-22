@@ -6,7 +6,7 @@ website: "https://www.roke.to/"
 twitter: "https://twitter.com/roketostream"
 telegram: "https://t.me/roketochat"
 category: app, utility
-logo: /img/roketo.png
+logo: /img/roketo.jpg
 contract: roketodapp.near
 ---
 
