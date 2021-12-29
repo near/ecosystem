@@ -1,12 +1,13 @@
 ---
 slug: "metamon"
 title: "Metamon"
-oneliner: "Collect, Evolve and Play!"
+oneliner: "Free-to-play Play-to-Earn online Battle Royale Game and Sci-Fi Franchise."
 website: "https://www.metamon.app/"
 twitter: "https://twitter.com/metamonapp"
-logo: /img/metamon.png
-category: app, nft
+discord: "https://discord.com/invite/CtPKud9kRE"
+logo: /img/metamon-logo.jpg
+category: app, nft, gaming, gamefi
 contract: mtvrs-app.near
 ---
 
-Metamon is a universe of cute and powerful monsters that you can capture, evolve and play games with! They are limited edition critically endangered creatures that will be available for adoption to an elite group of collectors. Combine two of the same Metamons to evolve them into an even rarer and more powerful Metamon. But be careful! Once you evolve, there is no going back!
+Metamon is a world of Sci-Fi and Fantasy where you venture into the stars to discover exciting new worlds and majestic life-forms with immeasurable power. You wield a Gauntlet-like device equipped with a rare Forma Crystal which enables you to capture, evolve and transform yourself into a Metamon. You travel across space and time to hunt for more power and resources, to become the very best Metamon warrior. With the power of your Forma Gauntlet, you join an epic battle for the supremacy of your Faction in the Galactic Federation. Your actions will determine the future of this universe. 
