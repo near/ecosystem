@@ -1,0 +1,175 @@
+[
+    {
+        "slug": "blockchain-protocol",
+        "name": "Blockchain Protocol",
+        "description": "",
+        "dependencies": []
+    },
+    {
+        "slug": "blockchain-client",
+        "name": "Blockchain Client",
+        "description": "",
+        "dependencies": ["blockchain-protocol"]
+    },
+    {
+        "slug": "blockchain-rpc",
+        "name": "RPC",
+        "description": "",
+        "dependencies": ["blockchain-client"]
+    },
+    {
+        "slug": "blockchain-query",
+        "name": "Blockchain Querying",
+        "description": "Query blockchain data from indexed database",
+        "dependencies": ["blockchain-rpc"]
+    },
+    {
+        "slug": "explorer",
+        "name": "Explorer",
+        "description": "Query blockchain data from indexed database",
+        "dependencies": [
+            "blockchain-rpc",
+            "blockchain-query"
+        ]
+    },
+    {
+        "slug": "analytics",
+        "name": "Analytics Dashboard",
+        "description": "Dashboard with custom analytics on-chain",
+        "dependencies": [
+            "blockchain-rpc",
+            "blockchain-query"
+        ]
+    },
+    {
+        "slug": "developer-console",
+        "name": "Developer Console",
+        "description": "Console to manage developer activity",
+        "dependencies": [
+            "blockchain-rpc",
+            "blockchain-query",
+            "explorer",
+            "analytics"
+        ]
+    },
+    {
+        "slug": "account-viewer",
+        "name": "Account Viewer",
+        "description": "Tool to query on-chain data for given account",
+        "dependencies": [
+            "blockchain-rpc",
+            "blockchain-query"
+        ]
+    },
+    {
+        "slug": "wallet-selector",
+        "name": "Wallet Selector",
+        "description": "Tool to select between different wallets",
+        "dependencies": [
+            "blockchain-rpc",
+            "blockchain-query"
+        ]
+    },
+    {
+        "slug": "wallet-sdk",
+        "name": "Wallet SDK",
+        "description": "SDK to develop wallets",
+        "dependencies": [
+            "account-viewer",
+            "wallet-selector",
+            "gateway-payment",
+            "gateway-ad",
+            "onramp",
+            "blockchain-lightclient"
+        ]
+    },
+    {
+        "slug": "wallet",
+        "name": "Wallet",
+        "description": "A way to access identity and assets on-chain",
+        "dependencies": [
+            "wallet-sdk",
+            "contract-audit-registry"
+        ]
+    },
+    {
+        "slug": "contract-audit-registry",
+        "name": "Contract Audit Regsitry",
+        "description": "Maintain registry of the contracts audits",
+        "dependencies": [
+            "contract-sdk"
+        ]
+    },
+    {
+        "slug": "contract-sdk",
+        "name": "Contract Development",
+        "description": "Contract development SDKs, like Rust, JS or C++",
+        "dependencies": [
+            "blockchain-protocol"
+        ]
+    },
+    {
+        "slug": "blockchain-api",
+        "name": "APIs",
+        "description": "APIs to access contracts from the application side across different languages like JS, Rust, Python",
+        "dependencies": [
+            "blockchain-rpc",
+            "wallet-sdk"
+        ]
+    },
+    {
+        "slug": "exchange",
+        "name": "Crypto exchange",
+        "description": "",
+        "dependencies": [
+            "blockchain-rpc"
+        ]
+    },
+    {
+        "slug": "onramp",
+        "name": "Payment Onramp",
+        "description": "Exchange fiat into crypto",
+        "dependencies": [
+            "exchange"
+        ]
+    },
+    {
+        "slug": "gateway-payment",
+        "name": "Payment Gateway",
+        "description": "Fixed payment to access blockchain, hiding the gas fees and other infra fees",
+        "dependencies": [
+            "onramp",
+            "tx-relayer"
+        ]
+    },
+    {
+        "slug": "gateway-ad",
+        "name": "Ad Gateway",
+        "description": "Showing ads to the user while removing the gas fees and other infra fees",
+        "dependencies": [
+            "tx-relayer"
+        ]
+    },
+    {
+        "slug": "blockchain-lightclient",
+        "name": "Blockchain light client",
+        "description": "Allows to verify blockchain data efficiently",
+        "dependencies": [
+            "blockchain-protocol"
+        ]
+    },
+    {
+        "slug": "bridge",
+        "name": "Bridge between blockchains",
+        "description": "Allows one blockchain to read data and send messages to another",
+        "dependencies": ["blockchain-lightclient"]
+    },
+    {
+        "slug": "tx-relayer",
+        "name": "Transaction relayer",
+        "description": "Service that relays transactions on behalf of the user",
+        "dependencies": [
+            "blockchain-rpc"
+        ]
+    }
+]
