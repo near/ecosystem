@@ -1,5 +1,5 @@
 ---
-slug: "NEAR-RU"
+slug: "near-ru"
 title: "NEAR RU"
 oneliner: "Russian speaking community of the NEAR ecosystem"
 website: "https://near.ai/ru-guide"
@@ -8,8 +8,6 @@ telegram: "https://t.me/near_protocol"
 medium: "https://near-ru.medium.com/"
 category: guild, geographical
 logo: img/near-russia.png
-
 ---
 
 “Russian speaking community of the NEAR ecosystem.”
-
