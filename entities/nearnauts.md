@@ -2,13 +2,13 @@
 slug: "nearnauts"
 title: "NearNauts"
 oneliner: "NEARNauts is a generative NFT project on the NEAR Network."
-website: "nearnauts.io"
+website: "https://nearnauts.io"
 twitter: "https://twitter.com/nearnauts"
 discord: "https://discord.gg/t8d8xdPsJm"
 github: "https://github.com/nearnauts"
 logo: /img/nearnauts-logo.png
-status: building
-category: nft
+status: launched, mainnet
+category: nft, marketplace
 community asks: "Advertising/Growing the socials ready for launch."
 contract: nearnautsnft.near, market.nearnautsnft.near
 ---
