@@ -13,4 +13,4 @@ status: building
 category: oracles, aurora
 ---
 
-
+The API3 Foundation is a Decentralized Autonomous Organization (DAO) leading the movement from legacy third-party oracle networks to first-party oracle solutions that deliver more security, efficiency, and regulatory compliance. Powered by Airnode first-party oracles, API3’s Decentralized APIs (dAPIs) are decentrally controlled and blockchain-native data feeds with quantifiable security.
