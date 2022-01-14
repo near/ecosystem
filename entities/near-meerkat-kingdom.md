@@ -8,6 +8,7 @@ discord: "https://discord.gg/V3snD29ZdH"
 medium: "https://medium.com/@NEARMeerkatKingdom"
 logo: /img/near-meerkat-kingdom-logo.png
 status: building
+contract: nmkmint.near
 category: nft
 ---
 
