@@ -6,6 +6,7 @@ website: "https://tipjarlive.com"
 discord: "https://discord.gg/kZ9XHnwa"
 logo: /img/tip-jar-live-logo.png
 status: building
+contract: tipjargon.near
 category: defi, social, nft, tools
 ---
 
