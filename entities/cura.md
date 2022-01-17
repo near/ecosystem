@@ -7,8 +7,7 @@ twitter: "https://twitter.com/CuraOnNear"
 telegram: "https://t.me/creative_coding_guild"
 discord: "https://discord.gg/GzWyFeM4Zg"
 github: "https://github.com/curaOS"
-ticker: "BPM"
-logo: /img/amplify-art.jpg
+logo: /img/cura-logo.png
 category: nft, dao, social
 status: testnet
 ---
