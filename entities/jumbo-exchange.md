@@ -5,7 +5,6 @@ oneliner: "AMM DEX built on NEAR with the AML-compliance at its core."
 website: "https://jumbo.exchange/"
 twitter: "https://twitter.com/jumbo_exchange"
 telegram: "https://t.me/jumbo_exchange"
-discord: "https://discord.gg/AmplifyArt"
 medium: "https://amplify-art.medium.com/enriching-artists-with-decentralized-music-da7d876ae247"
 whitepaper: "https://jumbo-exchange.gitbook.io/product-docs/"
 logo: /img/jumbo-exchange-logo.png

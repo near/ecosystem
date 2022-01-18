@@ -2,9 +2,9 @@
 slug: "hall-of-goats"
 title: "Hall of GOATs"
 oneliner: "NFT marketplace for amateur athletes."
-website: "www.hallofgoats.com"
+website: "https://www.hallofgoats.com"
 twitter: "https://twitter.com/GOATS_hall/"
-discord: "https://discord.gg/RCeCN3kx"
+discord: "https://discord.com/invite/2bMtYjyNbE"
 logo: /img/hall-of-goats-logo.png
 category: nft, marketplace
 status: testnet
