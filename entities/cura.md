@@ -1,6 +1,6 @@
 ---
 slug: "cura"
-title: "Cura"
+title: "CURA"
 oneliner: "Experimental project on the NEAR sharded blockchain that explores the use of non-fungible tokens as creative tools."
 website: "https://cura.run/"
 twitter: "https://twitter.com/CuraOnNear"
