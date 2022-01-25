@@ -4,6 +4,7 @@ title: "Learn NEAR Club"
 oneliner: "Learn how to use and build on NEAR."
 website: "https://learnnear.club/"
 twitter: "https://twitter.com/LearnNear"
+telegram: "https://t.me/LearnNEARClub"
 github: "https://github.com/Learn-NEAR-Club"
 logo: /img/LNC Profile-Desktop.png
 category: ecosystem, community, accelerator
