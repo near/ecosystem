@@ -5,7 +5,7 @@ oneliner: "Learn how to use and build on NEAR."
 website: "https://learnnear.club/"
 twitter: "https://twitter.com/LearnNear"
 github: "https://github.com/Learn-NEAR-Club"
-logo: /img/learn-near.png
+logo: /img/LNC Profile-Desktop.png
 category: ecosystem, education, social
 contract: learnclub.near
 ---
