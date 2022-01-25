@@ -9,7 +9,7 @@ telegram: "https://t.me/parashq"
 discord: "https://discord.gg/vWR2XBNupg"
 logo: /img/paras.png
 category: nft, marketplace
-contract: contract.paras.near, x.paras.near
+contract: marketplace.paras.near, contract.paras.near, x.paras.near
 ---
 
 Paras, All-in-one social DAC marketplace for creators and collectors.
