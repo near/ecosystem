@@ -6,7 +6,7 @@ website: "https://learnnear.club/"
 twitter: "https://twitter.com/LearnNear"
 github: "https://github.com/Learn-NEAR-Club"
 logo: /img/LNC Profile-Desktop.png
-category: ecosystem, education, social
+category: ecosystem, community, accelerator
 contract: learnclub.near
 ---
 
