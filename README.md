@@ -84,27 +84,27 @@ Please add multiple tags if needed and include the header category as well.
 
 * 'partner' classification for if $NEAR is used on other networks for something
 
-| infrastructure | ecosystem | defi | funding | nft | gaming | app | guild | partner * |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| exchange | education | amm | accelerator | marketplace | metaverse |  | geographical | 
-| oracle | guild | dex | vc |  |  |  | validator |
-| wallet | marketing | stablecoin | grants |  |  |  | ecosystem project |
-| validator | devshop | lending |  |  |  |  | awareness |
-| indexer | social | derivatives |  |  |  |  | theme based guild |
-| analytics | utility |  |  |  |  |  | education |
-| tools | dao |  |  |  |  |  | open web aligned community |
-| payments | event |  |  |  |  |  | service |
-|  |  |  |  |  |  |  | music |
-|  |  |  |  |  |  |  | art |
-|  |  |  |  |  |  |  | earn |
-|  |  |  |  |  |  |  | creative |
-|  |  |  |  |  |  |  | content |
-|  |  |  |  |  |  |  | social media |
-|  |  |  |  |  |  |  | swag |
-|  |  |  |  |  |  |  | growth hacking |
-|  |  |  |  |  |  |  | design |
-|  |  |  |  |  |  |  | trading |
-|  |  |  |  |  |  |  | legal |
-|  |  |  |  |  |  |  | development |
-|  |  |  |  |  |  |  | privacy |
-|  |  |  |  |  |  |  | data |
+| infrastructure | ecosystem | defi | funding | nft | gaming | app | guild | partner * | web3 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| exchange | education | amm | accelerator | marketplace | metaverse |  | geographical |  | storage
+| oracle | guild | dex | vc |  |  |  | validator |  | compute
+| wallet | marketing | stablecoin | grants |  |  |  | ecosystem project |  | gpu
+| validator | devshop | lending |  |  |  |  | awareness |  |
+| indexer | social | derivatives |  |  |  |  | theme based guild |  |
+| analytics | utility |  |  |  |  |  | education |  |
+| tools | dao |  |  |  |  |  | open web aligned community |  |
+| payments | event |  |  |  |  |  | service |  |
+|  |  |  |  |  |  |  | music |  |
+|  |  |  |  |  |  |  | art |  |
+|  |  |  |  |  |  |  | earn |  |
+|  |  |  |  |  |  |  | creative |  |
+|  |  |  |  |  |  |  | content |  |
+|  |  |  |  |  |  |  | social media |  |
+|  |  |  |  |  |  |  | swag |  |
+|  |  |  |  |  |  |  | growth hacking |  |
+|  |  |  |  |  |  |  | design |  |
+|  |  |  |  |  |  |  | trading |  |
+|  |  |  |  |  |  |  | legal |  |
+|  |  |  |  |  |  |  | development |  |
+|  |  |  |  |  |  |  | privacy |  |
+|  |  |  |  |  |  |  | data |  |
