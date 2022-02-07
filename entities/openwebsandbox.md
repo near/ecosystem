@@ -1,13 +1,13 @@
 ---
 slug: "open-web-sandbox"
 title: "Open Web Sandbox"
-oneliner: "An open and permissionless Guild for anyone and everyone interested in contributing to the development of the NEAR Ecosystem."
-website: "https://nearguilds.com/sandbox/"
-twitter: "https://twitter.com/openwebsandbox"
-discord: "https://discord.com/invite/457bWnJqkQ"
-medium: "https://nearopenwebsandbox.medium.com/"
+oneliner: "A human-centric digital hub for everyone wishing to engage with projects building on top of the NEAR protocol."
+website: "https://openwebsandbox.org"
+twitter: "https://twitter.com/OpenWebSandbox"
+discord: "https://discord.com/invite/U4PAG4NCna"
+medium: "https://medium.com/open-web-sandbox-near"
 category: guilds, theme based guild, awareness, earn, social media	
 ---
 
-“The Sandbox is a place—with its own discord channel—for contributors, prospective Guild leaders, and veteran members of the NEAR community to collaborate with one another in helping develop and promote the NEAR Ecosystem.”
+The Open Web Sandbox is a community based organisation within the NEAR Protocol ecosystem. Their mission is to facilitate collaboration between communities that seek to create opportunities through projects, and contributors who want to take those opportunities and contribute to the ecosystem.
 
