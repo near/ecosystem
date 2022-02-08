@@ -5,6 +5,7 @@ oneliner: "Thousands of Mr. Brown's identities living in his imagination."
 website: "https://mrbrownproject.com/"
 twitter: "https://twitter.com/MrBrownNFT"
 logo: /img/mr-brown.jpg
+contract: mrbrownproject.near
 category: nft, art
 ---
 
