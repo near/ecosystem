@@ -7,7 +7,7 @@ twitter: "https://twitter.com/FinanceOin"
 telegram: "https://t.me/OIN_Finance_Eng"
 medium: "https://medium.com/oin-finance"
 github: "https://github.com/oinfinance/"
-logo: /img/oin.png
+logo: /img/oin-finance.jpg
 status: building
 category: infrastructure
 funded: yes

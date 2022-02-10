@@ -7,7 +7,7 @@ twitter: "https://twitter.com/ChainScoreHQ"
 github: "https://github.com/Chainscore"
 discord: "https://discord.gg/TaHXKnrgkb"
 whitepaper: "https://drive.google.com/file/d/1RcLBQIde-eLaDiXD8yqXrub2jKmoOlXH/view"
-logo: /img/chainscore-logo.png
+logo: /img/chainscore.jpg
 category: tools, defi
 contract: chainscore.near
 ---
