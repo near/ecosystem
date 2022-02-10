@@ -7,6 +7,7 @@ twitter: "https://twitter.com/uniqartnft"
 facebook: "https://www.facebook.com/uniqart.io/"
 discord: "https://discord.com/invite/fgax8BvBvM"
 category: app, nft, marketplace
+status: building
 logo: /img/uniqart.jpg
 ---
 

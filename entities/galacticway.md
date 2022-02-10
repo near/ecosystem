@@ -6,6 +6,7 @@ website: "https://galacticway.io/"
 twitter: "https://twitter.com/galacticnear"
 discord: "https://discord.com/invite/eQm5pcMZc5"
 category: app, nft, marketplace
+status: building
 logo: /img/galacticway.jpg
 ---
 

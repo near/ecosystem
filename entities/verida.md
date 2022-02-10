@@ -9,7 +9,7 @@ discord: "https://discord.com/invite/qb6vS43"
 medium: "https://medium.com/verida"
 github: "https://github.com/verida"
 logo: /img/verida.svg
-status: "building"
+status: building
 category: infrastructure, tools, wallet
 ---
 

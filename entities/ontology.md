@@ -8,7 +8,7 @@ telegram: "https://t.me/OntologyNetwork"
 medium: "https://medium.com/ontologynetwork"
 github: "https://github.com/ontio"
 logo: /img/ontology.png
-status: "building"
+status: building
 category: infrastructure
 ---
 
