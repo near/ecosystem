@@ -3,7 +3,7 @@ slug: "nearton"
 title: "NEARton"
 oneliner: "The First Meta Town on NEAR"
 twitter: "https://twitter.com/MetaNEARton"
-discord: "https://discord.gg/nearton
+discord: "https://discord.gg/nearton"
 medium: "https://medium.com/@NEARton"
 logo: /img/nearton-logo.png
 category: defi, nft, dao
