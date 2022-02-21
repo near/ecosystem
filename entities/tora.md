@@ -6,7 +6,7 @@ website: "https://tora.city"
 twitter: "https://twitter.com/_ProjectTora_"
 discord: "https://discord.gg/RprWWvcXGF"
 logo: /img/tora-logo.png
-category: nft, , dao, gaming, social
+category: nft, dao, gaming, social
 status: building
 ---
 
