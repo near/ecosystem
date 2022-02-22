@@ -8,8 +8,8 @@ telegram: "https://t.me/atlwrld"
 discord: "https://discord.gg/atlantisworld"
 medium: "https://atlantisworld.medium.com/"
 logo: /img/atlantis-world-logo.png
-category: music, defi, nft, app
-status: metaverse, defi, dao, social, nft, gaming
+category: metaverse, defi, dao, social, nft, gaming
+status: building
 ---
 
 Atlantis World is building the Web3 social metaverse by connecting Web3 with social, gaming and education in one lightweight virtual world that's accessible to everybody!
