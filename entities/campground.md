@@ -6,8 +6,6 @@ website: "https://www.campground.co/"
 twitter: "https://twitter.com/joincampground"
 discord: "https://discord.gg/tgGMA3Yh72"
 medium: "https://campground.medium.com/"
-github: "https://github.com/scorefam/"
-whitepaper: "https://scorefam.gitbook.io/scorefam-whitepaper/"
 logo: /img/campground-logo.png
 category: nft, social
 status: building
