@@ -6,7 +6,6 @@ website: "https://pumpopoly.com/"
 twitter: "https://twitter.com/pumpopoly"
 discord: "https://discord.gg/bqXJcAgxHX"
 medium: "https://blog.pumpopoly.com"
-whitepaper: "https://metaplan.cc/WhitepaperOfMetaPlan.pdf"
 logo: /img/pumpopoly-logo.png
 category: gaming, nft
 status: testnet

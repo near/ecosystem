@@ -6,7 +6,7 @@ website: "https://cannadao.org/"
 twitter: "https://twitter.com/the_cannadao?s=21"
 telegram: "https://t.me/cannadao"
 discord: "https://discord.com/channels/900838462813503518/901188536026411009"
-whitepaper: "https://assets.website-files.com/61a68ba7a27c60714b06cc48/61a68ba7a27c60039606cc85_greenpaper.pdf"
+whitepaper: "https://assets.cannadao.org/greenpaper.pdf"
 logo: /img/cannadao-logo.png
 category: DAO
 status: building

@@ -5,7 +5,7 @@ oneliner: "Multichain, Interoperable Metaverse-as-a-Service"
 website: "https://www.realitychain.io/"
 twitter: "https://twitter.com/realitychain"
 telegram: "http://t.me/realitychain"
-whitepaper: "https://7613d408-49e8-41d5-aedf-0b236ca0c96c.filesusr.com/ugd/a4ebc3_854fdd6bd5c54087903939695d3758a6.pdf"
+whitepaper: "https://www.realitychain.io/_files/ugd/a4ebc3_854fdd6bd5c54087903939695d3758a6.pdf"
 logo: /img/realitychain-logo.png
 category: gaming, nft, social, metaverse
 status: building, testnet
