@@ -3,7 +3,7 @@ slug: "nearby"
 title: "Nearby"
 oneliner: "Nearby helps set up and deploy smart contracts on Near."
 github: "https://github.com/JaiGhanekar/Nearby"
-logo: /img/nearby-logo.png
+logo: /img/nearby-logo.svg
 category: tools
 status: building
 ---
