@@ -7,7 +7,7 @@ twitter: "https://twitter.com/CryptoApis"
 telegram: "https://t.me/CryptoAPIs"
 medium: "https://medium.com/cryptoapis"
 github: "https://github.com/Crypto-APIs"
-logo: /img/crypto-apis-logo.png
+logo: /img/crypto-apis-logo.svg
 category: infrastructure, tools
 status: building
 ---
