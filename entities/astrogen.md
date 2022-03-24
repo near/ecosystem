@@ -9,6 +9,7 @@ github: "https://github.com/nearnauts"
 logo: /img/astrogen-logo.png
 status: building, testnet
 category: nft, tools
+contract: astrogenfunds.near
 ---
 
 AstroGen is a generative PFP/NFT launchpad enabling artists to launch any generative NFT collection quickly and seamlessly without having to learn a single line code or build a mint website.
