@@ -5,7 +5,7 @@ oneliner: "On-Ramp The World"
 website: "https://banxa.com/"
 twitter: "https://twitter.com/BanxaOfficial"
 jobs: "https://banxa.com/careers/"
-logo: /img/banxa-logo.png
+logo: /img/banxa-logo.svg
 category: app, payments, nft
 status: launched
 ---
