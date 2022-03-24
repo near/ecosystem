@@ -8,7 +8,7 @@ telegram: "https://t.me/cykuraofficialchat"
 discord: "https://discord.com/invite/gyaK56UreX"
 medium: "https://cykura.medium.com/"
 github: "https://github.com/cykura"
-logo: /img/cykura-logo.png
+logo: /img/cykura-logo.svg
 category: defi, amm, dex
 status: building
 ---
