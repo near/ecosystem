@@ -7,7 +7,7 @@ twitter: "https://twitter.com/raizfarms"
 telegram: "https://t.me/emg_33"
 github: "https://github.com/raiz-lisbon"
 logo: /img/raiz-vertical-farms-logo.png
-category: refi, ecosystem
+category: defi, ecosystem
 status: building
 ---
 
