@@ -72,6 +72,7 @@ Below are the available markdown headers for adding entities with guidelines for
 - `country`: country/region of the guild
 - `language`: native launguage of the guild
 - `status`: 'building', 'launched', 'mainnet', 'testnet'
+- `funded`: 'true' if project recieved a grant from NF
 - `contract`: Project contract id
 - `jobs`: Jobs available
 - `community asks`: What they could use help with from community?
