@@ -10,4 +10,4 @@ logo: /img/near-canada.png
 
 ---
 
-“Empowering Canadians with the knowledge of Web 3.0 and NEAR technology.”
+“Empowering canadians with the knowledge of Web 3.0 and NEAR technology.”
