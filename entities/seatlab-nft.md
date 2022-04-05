@@ -9,6 +9,7 @@ discrod: "https://discord.com/invite/kTpaEwACHQ"
 logo: /img/seatlab-nft-logo.jpg
 status: building
 category: app, nft
+contract: membership.stlb.near
 ---
 
 Seatlab is solving some of the ticketing industry’s biggest problems with our NFT ticketing Marketplace.
