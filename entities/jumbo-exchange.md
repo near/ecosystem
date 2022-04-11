@@ -8,8 +8,8 @@ telegram: "https://t.me/jumbo_exchange"
 medium: "https://amplify-art.medium.com/enriching-artists-with-decentralized-music-da7d876ae247"
 whitepaper: "https://jumbo-exchange.gitbook.io/product-docs/"
 logo: /img/jumbo-exchange-logo.png
-category: defi
-status: testnet
+category: defi, dex
+status: mainnet, launched
 contract: token.jumbo_exchange.near
 ---
 
