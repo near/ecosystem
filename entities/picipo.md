@@ -10,6 +10,7 @@ medium: "https://picipo-io.medium.com"
 whitepaper: "https://picipo.gitbook.io/picipo-io"
 logo: /img/picipo-logo.png
 status: building
+contract: picipo.picipocontracts.near
 category: nft, defi, dao, social
 ---
 
