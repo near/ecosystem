@@ -1,8 +1,8 @@
 ---
 slug: "nearzombies"
 title: "NearZombies"
-oneliner: "Learn, earn and build on Near in a funny way"
-website: "https://www.nearzombies.io
+oneliner: "Learn, earn and build on Near in a funny way."
+website: "https://www.nearzombies.io"
 twitter: "https://twitter.com/nearzombies"
 telegram: "https://t.me/nearzombies"
 github: "https://github.com/hasanozkul/nearzombies"
