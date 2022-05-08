@@ -5,7 +5,7 @@ oneliner: "Somos un grupo de entusiastas Mexicanos conformados por distintos per
 website: "http://www.nearmexico.org/"
 twitter: "https://twitter.com/NearMexico"
 telegram: "https://t.me/+SuhzirHG_S04MjQx"
-discord: "https://discord.gg/cVMF8UBX"
+discord: "https://discord.gg/hgFehrt4na"
 youtube: "https://www.youtube.com/channel/UCuiVANhh4shJrQbh2gNFV7w"
 category: education, guild, social, dao, events
 logo: /img/near-mexico-guild-logo.png
