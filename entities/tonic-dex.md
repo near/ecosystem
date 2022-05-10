@@ -8,7 +8,6 @@ telegram: "https://t.me/+llBJSdUDnw9jZmEx"
 discord: "https://discord.com/invite/zedYdpyaTd"
 category: app, defi, dex
 logo: /img/tonic-dex.jpg
-contract: roketodapp.near
 ---
 
 Tonic brings the speed and convenience of centralized exchanges to NEAR while being fully decentralized.
