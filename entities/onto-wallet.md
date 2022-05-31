@@ -8,7 +8,7 @@ telegram: "https://t.me/ONTOWallet"
 discord: "https://discord.gg/JpHXCcJQGR"
 medium: "https://medium.com/onto"
 github: "https://github.com/3xr-space"
-logo: /img/onto-wallet-logo.png
+logo: /img/onto-wallet-logo.svg
 category: tools
 status: launched
 ---
