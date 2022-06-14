@@ -8,7 +8,7 @@ discord: "https://discord.gg/wc6T6bPvdr"
 github: "https://github.com/near-multicall"
 logo: /img/near-multicall-logo.png
 category: dao, tools
-status: testnet
+status: mainnet
 ---
 
 "Near-multicall is a tool for DAOs to create and execute any number of actions in one single proposal, even surpassing the max transaction gas limit (currently 300Tgas). It also enables them to set specific execution times, so proposals don't run as soon as they pass voting.
