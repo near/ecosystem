@@ -8,6 +8,7 @@ discord: "https://discord.gg/wjENEs82KX"
 logo: /img/the-burning-realm-logo.png
 category: gaming
 status: building
+contract: theburningrealm.near
 ---
 
 "The Burning Realm is a point and click mmorpg set in a medieval fantasy world. players can level
