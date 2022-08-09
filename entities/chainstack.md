@@ -9,7 +9,7 @@ discord: "https://discord.gg/Cymtg2f7pX"
 medium: "https://chainstack.com/blog/"
 github: "https://github.com/chainstack"
 whitepaper: "https://chainstack.com/press-kit/"
-logo: /img/chainstack-logo.png
+logo: /img/chainstack-logo.svg
 category: infrastructure
 status: building
 ---
