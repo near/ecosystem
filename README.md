@@ -16,6 +16,7 @@ Contributions: send PR to add your organization with responsibility and contact 
 | NEAR One | Protocol development team, maintaners of [nearcore](https://github.com/near/nearcore) | [Zulip chat](https://near.zulipchat.com/) |
 | [NEAR Dev Hub](https://neardevhub.org/) | Supporting open source development on NEAR from developer education to maintaining core components | [Create proposl](https://near.social/devhub.near/widget/app?page=create-proposal) |
 | [Proximity](https://proximity.dev/) | Chain Abstraction go to market team | [Email](mailto:Hello@proximity.dev) |
+| [Learn NEAR Club](https://learnnear.club/) | Connects NEAR Ecosystem projects to pro-active community members | [Join as Project](https://learnnear.club/lnc-for-near-projects/) |
 
 ## Work groups
 
