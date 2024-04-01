@@ -8,6 +8,7 @@ medium: "https://medium.com/@apollo42app"
 logo: /img/apollo42-logo.png
 status: building
 category: nft, app, social, tools
+contract: apollo42.near
 ---
 
 Apollo42 is the world’s first NFT ecosystem of services for the NFT community, P2E gamers, and Metaverse users allowing everyone to do everything in one place: from socialising with other NFT enthusiasts on the marketplace to creating an NFT collection with zero code and analysing the overall NFT market.
