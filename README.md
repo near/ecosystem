@@ -17,7 +17,7 @@ Contributions: send PR to add your organization with responsibility and contact 
 | [NEAR Dev Hub](https://neardevhub.org/) | Supporting open source development on NEAR from developer education to maintaining core components | [Create proposl](https://near.social/devhub.near/widget/app?page=create-proposal) |
 | [Proximity](https://proximity.dev/) | Chain Abstraction go to market team | [Email](mailto:Hello@proximity.dev) |
 | [Learn NEAR Club](https://learnnear.club/) | Connects NEAR Ecosystem projects to pro-active community members | [Join as Project](https://learnnear.club/lnc-for-near-projects/) |
-| [Mintbase Templates](https://templates.mintbase.xyz/) | Starter Apps to buil AI + NFT Apps fast + [Bounties](https://templates.mintbase.xyz/bounty) and [Grants](https://github.com/Mintbase/Grants-Program)| [Deploy an App](https://templates.mintbase.xyz/) |
+| [Mintbase](https://mintbase.xyz/) | NFT Creator suite, market, and [developer templates](https://templates.mintbase.xyz/) to build AI + NFT apps fast| [Apply for Grants](https://github.com/Mintbase/Grants-Program) |
 
 ## Work groups
 
