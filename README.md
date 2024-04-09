@@ -25,5 +25,5 @@ Contributions: send PR to add your organization with responsibility and contact 
 | Work group | Responsibility | Contact |
 | - | - | - |
 | [Protocol Work Group](https://github.com/near/neps) | Responsible for decisions about NEAR blockchain protocol improvements and updates | [New issue](https://github.com/near/NEPs/issues/new) |
-| Infrastructure Work Group | Responsible for funding core infrastructure of NEAR protocol | TBD |
+| [Infrastructure Work Group](https://github.com/near/Infrastructure-Working-Group) | Responsible for funding core infrastructure of NEAR protocol | [Telegram](https://t.me/vikpande) |
 
