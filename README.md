@@ -10,14 +10,16 @@ Contributions: send PR to add your organization with responsibility and contact 
 
 | Node | Responsibility | Contact |
 | - | - | - |
-| [NEAR Foundation](https://near.foundation) | Coordinating and funding the NEAR ecosystem development | TBD |
+| [NEAR Foundation](https://near.foundation) | Coordinating and funding the NEAR ecosystem development | [Email](mailto:hello@near.foundation) |
 | [NEAR Foundation/Horizon](https://www.hzn.xyz/) | Horizon is an 8 week equity-free accelerator that provides multi-faceted support for early stage Web3 projects | [Apply to next cohort](https://www.hzn.xyz/hzn) |
 | [Pagoda](https://pagoda.co) | Development of various core components of NEAR ecosystem | - |
-| NEAR One | Protocol development team, maintaners of [nearcore](https://github.com/near/nearcore) | [Zulip chat](https://near.zulipchat.com/) |
+| NEAR One | Protocol development team, maintainers of [nearcore](https://github.com/near/nearcore) | [Zulip chat](https://near.zulipchat.com/) |
+| [NEAR Dev Hub](https://neardevhub.org/) | Supporting open source development on NEAR from developer education to maintaining core components | [Create proposal](https://near.social/devhub.near/widget/app?page=create-proposal) |
 | [NEARWEEK](https://near.org/nearweekapp.near/widget/nearweek.com) | The Official NEAR Newsletter & Community Platform ⋈ Research. Development. Aggregation. Curation. | [Request support](https://4efdmh2cgdi.typeform.com/to/FJwHsvsW?typeform-source=docs.nearweek.com) | 
-| [NEAR Dev Hub](https://neardevhub.org/) | Supporting open source development on NEAR from developer education to maintaining core components | [Create proposl](https://near.social/devhub.near/widget/app?page=create-proposal) |
 | [Proximity](https://proximity.dev/) | Chain Abstraction go to market team | [Email](mailto:Hello@proximity.dev) |
 | [Learn NEAR Club](https://learnnear.club/) | Connects NEAR Ecosystem projects to pro-active community members | [Join as Project](https://learnnear.club/lnc-for-near-projects/) |
+| [Mintbase](https://mintbase.xyz/) | NFT Creator suite, market, and [developer templates](https://templates.mintbase.xyz/) to build AI + NFT apps fast| [Apply for Grants](https://github.com/Mintbase/Grants-Program) |
+| [Potlock](https://app.potlock.org/) | Open funding and impact tracking stack on NEAR dedicated to publicgoods | [Community Chat](https://potlock.org/community) |
 
 ## Work groups
 
