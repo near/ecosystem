@@ -110,7 +110,15 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Marketing & Events
 - **Title**: Head of Partnership Marketing
 
-- ### Stephanie Izquieta
+### David Morrison
+- **Email**: david.morrison@near.foundation
+- **Preferred Contact Method**: Email, Telegram
+- **Telegram Profile Link**: [https://t.me/DAOvid_Mo](https://t.me/DAOvid_Mo)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Marketing & Events
+- **Title**: Head of Creative Campaigns & Social Media
+
+### Stephanie Izquieta
 - **Email**: stephanie.izquieta@near.foundation
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/locazor](https://t.me/locazor)
