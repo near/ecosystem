@@ -110,6 +110,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Marketing & Events
 - **Title**: Head of Partnership Marketing
 
+- ### Stephanie Izquieta
+- **Email**: stephanie.izquieta@near.foundation
+- **Preferred Contact Method**: Email, Telegram
+- **Telegram Profile Link**: [https://t.me/locazor](https://t.me/locazor)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Marketing & Events
+- **Title**: Events Lead
+
 ### Olga Plokhuta
 - **Email**: olga.plokhuta@near.foundation
 - **Preferred Contact Method**: Email, Telegram
