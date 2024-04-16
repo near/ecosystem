@@ -27,4 +27,9 @@ Contributions: send PR to add your organization with responsibility and contact 
 | - | - | - |
 | [Protocol Work Group](https://github.com/near/neps) | Responsible for decisions about NEAR blockchain protocol improvements and updates | [New issue](https://github.com/near/NEPs/issues/new) |
 | [Infrastructure Work Group](https://github.com/near/Infrastructure-Working-Group) | Responsible for funding core infrastructure of NEAR protocol | [Telegram](https://t.me/vikpande) |
+| [Contract Standards Work Group](https://near.social/devhub.near/widget/app?page=community&handle=contract-standards&tab=about-us) | Responsible for decisions regarding Contract Standards on NEAR, voting on related NEPs, and providing attestations on related funding proposals | [Community Telegram](https://t.me/nearnft) |
+| [Protocol Work Group](https://near.social/devhub.near/widget/app?page=community&handle=protocol&tab=about-us) | Responsible for decisions regarding the NEAR Protocol, voting on related NEPs, and setting the protocol budget | [Community Telegram](https://t.me/NEAR_Protocol_Community_Group) |
+| [Zero Knowledge Work Group](https://near.social/devhub.near/widget/app?page=community&handle=zero-knowledge&tab=about) | Responsible for decisions regarding Zero Knowledge related proposals | [Community Telegram](https://t.me/NearZeroKnowledge) |
+| [Hackathon Work Group](https://near.social/devhub.near/widget/app?page=community&handle=hacks&tab=about) | Responsible for decisions regarding hackathons and technical event proposals | [Community Telegram](https://t.me/+Pdipk3olNgw3NWMy) |
+| [Validators Work Group](https://near.social/devhub.near/widget/app?page=community&handle=validators&tab=about-us) | Responsible for decisions regarding validator related proposals and updates | [Community Telegram](https://t.me/joinchat/T12wrqSx66utgg-P) |
 
