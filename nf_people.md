@@ -54,11 +54,11 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Founder Success
 - **Title**: Head of Ecosystem Acceleration
 
-### Bianca <img width="417" alt="Screenshot 2024-04-08 at 15 52 13" src="https://github.com/near/ecosystem/assets/131367856/6277e771-ef89-4d52-8b70-1d62fe61786e">
+### Bianca
 
 - **Email**: bianca.momand@near.foundation
 - **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/mrsmomand](https://t.me/mrsmomand)
+- **Telegram Profile Link**: [https://t.me/mrsmomand](https://t.me/mrsmomand)  <img width="417" alt="Screenshot 2024-04-08 at 15 52 13" src="https://github.com/near/ecosystem/assets/131367856/6277e771-ef89-4d52-8b70-1d62fe61786e">
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Founder Success
 - **Title**: Operations Lead
