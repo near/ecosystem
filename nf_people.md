@@ -4,6 +4,14 @@ This document provides contact information for members of the NEAR Foundation. P
 
 ## Members
 
+### Lei Lei 
+- **Email**: lei.lei@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/lei_lei0904](https://t.me/lei_lei0904)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Finance & Market Success
+- **Title**: Head of Institutional
+
 ### Konrad Merino
 - **Email**: konrad.merino@near.foundation
 - **Preferred Contact Method**: Telegram
@@ -109,6 +117,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Marketing & Events
 - **Title**: Head of Partnership Marketing
+
+### Kiana Vidal
+- **Email**: kiana.vidal@near.foundation
+- **Preferred Contact Method**: Email, Telegram
+- **Telegram Profile Link**: [https://t.me/Kiana_0226](https://t.me/Kiana_0226)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Marketing & Events
+- **Title**: Event Production Manager
 
 ### David Morrison
 - **Email**: david.morrison@near.foundation
