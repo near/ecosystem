@@ -12,7 +12,7 @@ Contributions: send PR to add your organization with responsibility and contact 
 | - | - | - |
 | [NEAR Foundation](https://near.foundation) | Coordinating and funding the NEAR ecosystem development | [People](nf_people.md) |
 | [NEAR Foundation/Horizon](https://www.hzn.xyz/) | Horizon is an 8 week equity-free accelerator that provides multi-faceted support for early stage Web3 projects | [Apply to next cohort](https://www.hzn.xyz/hzn) |
-| [Pagoda](https://pagoda.co) | Development of various core components of NEAR ecosystem | - |
+| [Pagoda](https://pagoda.co) | Development of various core components of NEAR ecosystem | [Contact](pagoda_people.md) |
 | NEAR One | Protocol development team, maintainers of [nearcore](https://github.com/near/nearcore) | [Zulip chat](https://near.zulipchat.com/) |
 | [NEAR Dev Hub](https://neardevhub.org/) | Supporting open source development on NEAR from developer education to maintaining core components | [Create proposal](https://near.social/devhub.near/widget/app?page=create-proposal) |
 | [NEARWEEK](https://near.org/nearweekapp.near/widget/nearweek.com) | The Official NEAR Newsletter & Community Platform ⋈ Research. Development. Aggregation. Curation. | [Request support](https://4efdmh2cgdi.typeform.com/to/FJwHsvsW?typeform-source=docs.nearweek.com) | 
