@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ["3.7"]
+        python-version: ["3.12"]
 
     steps:
       - name: checkout repo content
@@ -22,8 +22,8 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.7.7' # install the python version needed
-          
+          python-version: '3.12.3' # install the python version needed
+
       - name: scrape md to json
         run: |
           python scrape.py
@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit --allow-empty -m "update data" -a
+          git commit --allow-empty -m "update entities.json" -a
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
