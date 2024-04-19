@@ -2,12 +2,14 @@
 
 This document provides contact information for members of Pagoda.
 
+Customer Support: https://nearhelp.zendesk.com/
+
 ## Members
 
 ### Technology
-- Eric Winer, Chief Technology Officer: eric@near.org
-- Jim Berry, Director of Engineering: jim@near.org
-- Security: security@near.org
+- Eric Winer, Chief Technology Officer: [eric@near.org](mailto:eric@near.org) or https://t.me/ericwiner
+- Jim Berry, Director of Engineering: [jim@near.org](mailto:jim@near.org)
+- Security: [security@near.org](mailto:security@near.org)
 
 ### Product
 - Product, UX, and Data: pdd@near.org

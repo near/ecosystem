@@ -21,6 +21,8 @@ Contributions: send PR to add your organization with responsibility and contact 
 | [Mintbase](https://mintbase.xyz/) | NFT Creator suite, market, and [developer templates](https://templates.mintbase.xyz/) to build AI + NFT apps fast| [Apply for Grants](https://github.com/Mintbase/Grants-Program) |
 | [Potlock](https://app.potlock.org/) | Open funding and impact tracking stack on NEAR dedicated to publicgoods | [Community Chat](https://potlock.org/community) |
 
+We also maintain a database of all entities in the NEAR ecosystem; see the [Ecosystem Readme](ecosystem.md) for more information.
+
 ## Work groups
 
 | Work group | Responsibility | Contact |
@@ -32,4 +34,3 @@ Contributions: send PR to add your organization with responsibility and contact 
 | [Zero Knowledge Work Group](https://near.social/devhub.near/widget/app?page=community&handle=zero-knowledge&tab=about) | Responsible for decisions regarding Zero Knowledge related proposals | [Community Telegram](https://t.me/NearZeroKnowledge) |
 | [Hackathon Work Group](https://near.social/devhub.near/widget/app?page=community&handle=hacks&tab=about) | Responsible for decisions regarding hackathons and technical event proposals | [Community Telegram](https://t.me/+Pdipk3olNgw3NWMy) |
 | [Validators Work Group](https://near.social/devhub.near/widget/app?page=community&handle=validators&tab=about-us) | Responsible for decisions regarding validator related proposals and updates | [Community Telegram](https://t.me/joinchat/T12wrqSx66utgg-P) |
-
