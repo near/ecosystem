@@ -78,7 +78,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Telegram Profile Link**: [https://t.me/abhishekvaidy](https://t.me/abhishekvaidy)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Special Operations
-- **Title**: Head of Special Operations & Senior Legal Counsel
+- **Title**: Acting General Counsel
 
 ### Dan Horne
 - **Email**: daniel.horne@near.foundation
