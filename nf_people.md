@@ -4,14 +4,6 @@ This document provides contact information for members of the NEAR Foundation. P
 
 ## Members
 
-### Lei Lei 
-- **Email**: lei.lei@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/lei_lei0904](https://t.me/lei_lei0904)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Finance & Market Success
-- **Title**: Head of Institutional
-
 ### Konrad Merino
 - **Email**: konrad.merino@near.foundation
 - **Preferred Contact Method**: Telegram
@@ -26,7 +18,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Telegram
 - **Telegram Profile Link**: [https://t.me/dfree2243](https://t.me/dfree2243)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Finance & Market Success
+- **Team**: Blockchain Success
 - **Title**: Blockchain Success Manager
 
 ### Vik
@@ -55,46 +47,51 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Title**: Head of Ecosystem Acceleration
 
 ### Bianca
-
 - **Email**: bianca.momand@near.foundation
 - **Preferred Contact Method**: Telegram
 - **Telegram Profile Link**: [https://t.me/mrsmomand](https://t.me/mrsmomand)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Founder Success
-- **Title**: Operations Lead
-
-### Marcus
-- **Email**: marcus.ribeiro@near.foundation
-- **Preferred Contact Method**: Email, Telegram
-- **Telegram Profile Link**: [https://t.me/marcus_NEAR](https://t.me/marcus_NEAR)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Founder Success
-- **Title**: Ecosystem Relations Lead
-- **Responsibilities**: Engaging and supporting the NEAR ecosystem. This includes monitoring ecosystem activities to identify key players and entities that can be empowered or leveraged, ensuring active engagement & retention within the NEAR eco, fostering a vibrant collaborative environment where ecosystem participants are recognised & supported, ensuring the growth and sustainability of the NEAR ecosystem
+- **Title**: Program Success Director
 
 ### Abhishek Vaidyanathan
 - **Email**: abhishek.vaidyanathan@near.foundation
 - **Preferred Contact Method**: Telegram
 - **Telegram Profile Link**: [https://t.me/abhishekvaidy](https://t.me/abhishekvaidy)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Special Operations
+- **Team**: Legal
 - **Title**: Acting General Counsel
+
+### Davin
+- **Email**: davin.basi@near.foundation
+- **Preferred Contact Method**: Email
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Legal
+- **Title**: Legal Counsel
+- **Responsibilities**: Providing legal and operational support to Special Operations team initiatives. 
+
+### Carla
+- **Email**: carla.bertoncelli@near.foundation
+- **Preferred Contact Method**: Email
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Legal
+- **Title**: Paralegal
+
+### David
+- **Email**: david.mirzadeh@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/mirzdame](https://t.me/mirzdame)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Office of the CEO
+- **Title**: Chief of Staff
 
 ### Dan Horne
 - **Email**: daniel.horne@near.foundation
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/dan_web3](https://t.me/dan_web3)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Special Operations
-- **Title**: Senior Legal & Business Operations Manager
-
-### Davin
-- **Email**: davin.basi@near.foundation
-- **Preferred Contact Method**: Email
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Special Operations
-- **Title**: Legal Counsel
-- **Responsibilities**: Providing legal and operational support to Special Operations team initiatives. 
+- **Team**: Office of the CEO
+- **Title**: Head of Strategic Operations
 
 ### Pierre
 - **Email**: pierre.leguen@near.foundation
