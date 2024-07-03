@@ -11,7 +11,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Blockchain Success
 - **Title**: Head of Blockchain Success
-- **Responsibilities**: Ecosystem Success, Infra Ecosystem Topics and Token Launch support for Ecosystem Partners 
 
 ### Dillon
 - **Email**: dillon.freeman@near.foundation
@@ -28,7 +27,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Blockchain Success
 - **Title**: Ecosystem Success Senior Engineer
-- **Responsibilities**: Facilitate and manage infra components (Oracles, Bridges, RPC, Wallets, Indexers,) & DexTools at NEAR with Partners. Pagoda, Market Success(Data team) & FastNEAR team
 
 ### Laura Cunningham
 - **Email**: laura.cunningham@near.foundation
@@ -68,7 +66,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Legal
 - **Title**: Legal Counsel
-- **Responsibilities**: Providing legal and operational support to Special Operations team initiatives. 
 
 ### Carla
 - **Email**: carla.bertoncelli@near.foundation
@@ -99,7 +96,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Special Operations
 - **Title**: Software Engineer
-- **Responsibilities**: Engineering work (multisig wallet, onchain transaction tracking), technical support...
 
 ### Jared Thompson
 - **Email**: jared.thompson@near.foundation
@@ -162,7 +158,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: People
 - **Title**: HR Generalist
-- **Responsibilities**: Onboarding, Offboarding, Engagement, Performance, Employee Support
 
 ### Arpi Tergalstanyan
 - **Email**: arpi.tergalstanyan@near.foundation
