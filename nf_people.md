@@ -36,7 +36,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Product
 - **Title**: Head of Product
 
-### Chetan Nandakumar
+### Chetan
 - **Email**: chetan.nandakumar@near.foundation
 - **Preferred Contact Method**: Email
 - **Organization (Node)**: NEAR Foundation
