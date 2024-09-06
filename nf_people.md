@@ -36,6 +36,13 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Product
 - **Title**: Head of Product
 
+### Chetan Nandakumar
+- **Email**: chetan.nandakumar@near.foundation
+- **Preferred Contact Method**: Email
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Product
+- **Title**: Director of Product Management, AI
+
 ### Jarrod Barnes
 - **Email**: jarrod.barnes@near.foundation
 - **Preferred Contact Method**: Telegram
@@ -89,13 +96,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Office of the CEO
 - **Title**: Head of Strategic Operations
-
-### Pierre
-- **Email**: pierre.leguen@near.foundation
-- **Preferred Contact Method**: Email
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Special Operations
-- **Title**: Software Engineer
 
 ### Jared Thompson
 - **Email**: jared.thompson@near.foundation
