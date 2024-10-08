@@ -36,6 +36,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Product
 - **Title**: Head of Product
 
+### Jo
+- **Email**: jo.yang@near.foundation
+- **Preferred Contact Method**: Email, Telegram
+- **Telegram Profile Link**: [https://t.me/joyang0](https://t.me/joyang0)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Product
+- **Title**: Manager, Data Science
+
 ### Chetan
 - **Email**: chetan.nandakumar@near.foundation
 - **Preferred Contact Method**: Email
