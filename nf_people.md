@@ -10,46 +10,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Telegram Profile Link**: [https://t.me/KonradMerino](https://t.me/KonradMerino)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Blockchain Success
-- **Title**: Head of Blockchain Success
-
-### Dillon
-- **Email**: dillon.freeman@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/dfree2243](https://t.me/dfree2243)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Blockchain Success
-- **Title**: Blockchain Success Manager
-
-### Vik
-- **Email**: vikas.pandey@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/vikpande](https://t.me/vikpande)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Blockchain Success
-- **Title**: Ecosystem Success Senior Engineer
-
-### Laura Cunningham
-- **Email**: laura.cunningham@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/lcccunningham](https://t.me/lcccunningham)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Product
-- **Title**: Head of Product
-
-### Chetan
-- **Email**: chetan.nandakumar@near.foundation
-- **Preferred Contact Method**: Email
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Product
-- **Title**: Director of Product Management, AI
-
-### Jo
-- **Email**: jo.yang@near.foundation
-- **Preferred Contact Method**: Email, Telegram
-- **Telegram Profile Link**: [https://t.me/joyang0](https://t.me/joyang0)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Product
-- **Title**: Manager, Data Science
+- **Title**: Head of Infra Success
 
 ### Jarrod Barnes
 - **Email**: jarrod.barnes@near.foundation
@@ -102,7 +63,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/dan_web3](https://t.me/dan_web3)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Office of the CEO
+- **Team**: Foundation Intelligence
 - **Title**: Head of Strategic Operations
 
 ### Jared Thompson
@@ -150,15 +111,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Telegram Profile Link**: [https://t.me/OlgaPlokhuta](https://t.me/OlgaPlokhuta)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Marketing & Events
-- **Title**: Senior Program Manager
-
-### Franka
-- **Email**: franka.bestmann@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/televisionfb](https://t.me/televisionfb)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: People
-- **Title**: Director of People Operations
+- **Title**: Marketing Program Director
 
 ### Megan Gill
 - **Email**: megan.gill@near.foundation
@@ -166,10 +119,3 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: People
 - **Title**: HR Generalist
-
-### Arpi Tergalstanyan
-- **Email**: arpi.tergalstanyan@near.foundation
-- **Preferred Contact Method**: Email
-- **Organization (Node)**: NEAR Foundation
-- **Team**: People
-- **Title**: Talent Acquisition Manager
