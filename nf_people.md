@@ -71,14 +71,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/jarednotjerry](https://t.me/jarednotjerry)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing & Events
+- **Team**: Marketing
 - **Title**: Head of Content
 
 ### Rob Woodbury
 - **Email**: rob.woodbury@near.foundation
 - **Preferred Contact Method**: Email
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing & Events
+- **Team**: Marketing
 - **Title**: Head of Partnership Marketing
 
 ### Kiana Vidal
@@ -86,7 +86,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/Kiana_0226](https://t.me/Kiana_0226)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing & Events
+- **Team**: Marketing
 - **Title**: Event Production Manager
 
 ### David Morrison
@@ -94,7 +94,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/DAOvid_Mo](https://t.me/DAOvid_Mo)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing & Events
+- **Team**: Marketing
 - **Title**: Head of Creative Campaigns & Social Media
 
 ### Stephanie Izquieta
@@ -102,15 +102,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Email, Telegram
 - **Telegram Profile Link**: [https://t.me/locazor](https://t.me/locazor)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing & Events
+- **Team**: Marketing
 - **Title**: Events Lead
 
 ### Olga Plokhuta
 - **Email**: olga.plokhuta@near.foundation
-- **Preferred Contact Method**: Email, Telegram
-- **Telegram Profile Link**: [https://t.me/OlgaPlokhuta](https://t.me/OlgaPlokhuta)
+- **Preferred Contact Method**: Email
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing & Events
+- **Team**: Marketing
 - **Title**: Marketing Program Director
 
 ### Megan Gill
