@@ -12,6 +12,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Blockchain Success
 - **Title**: Head of Infra Success
 
+  ### Artem Petrikeev
+- **Email**: artem.petrikeev@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/apetrikeev](https://t.me/apetrikeev)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: VC & Institutional
+- **Title**: Investor Relations
+
 ### Jarrod Barnes
 - **Email**: jarrod.barnes@near.foundation
 - **Preferred Contact Method**: Telegram
@@ -19,6 +27,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Founder Success
 - **Title**: Head of Ecosystem Acceleration
+
+### Michael Broderick
+- **Email**: michael.broderick@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/mbroderick](https://t.me/mbroderick)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Founder Success
+- **Title**: Ecosystem Growth Lead
 
 ### Bianca
 - **Email**: bianca.momand@near.foundation
