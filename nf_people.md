@@ -12,7 +12,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Blockchain Success
 - **Title**: Head of Infra Success
 
-  ### Artem Petrikeev
+### Artem Petrikeev
 - **Email**: artem.petrikeev@near.foundation
 - **Preferred Contact Method**: Telegram
 - **Telegram Profile Link**: [https://t.me/apetrikeev](https://t.me/apetrikeev)
