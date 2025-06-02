@@ -9,8 +9,16 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Preferred Contact Method**: Telegram
 - **Telegram Profile Link**: [https://t.me/KonradMerino](https://t.me/KonradMerino)
 - **Organization (Node)**: NEAR Foundation
-- **Team**: Blockchain Success
+- **Team**: Infra Success
 - **Title**: Head of Infra Success
+
+### Iker Alustiza
+- **Email**: iker.alustiza@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/IkerAlustiza](https://t.me/IkerAlustiza)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Infra Success
+- **Title**: Partner Engineer
 
 ### Artem Petrikeev
 - **Email**: artem.petrikeev@near.foundation
@@ -20,21 +28,13 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: VC & Institutional
 - **Title**: Investor Relations
 
-### Jarrod Barnes
-- **Email**: jarrod.barnes@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/jarrodbarnes](https://t.me/jarrodbarnes)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Founder Success
-- **Title**: Head of Ecosystem Acceleration
-
 ### Michael Broderick
 - **Email**: michael.broderick@near.foundation
 - **Preferred Contact Method**: Telegram
 - **Telegram Profile Link**: [https://t.me/mbroderick](https://t.me/mbroderick)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Founder Success
-- **Title**: Ecosystem Growth Lead
+- **Title**: Head of Founder Success
 
 ### Bianca
 - **Email**: bianca.momand@near.foundation
@@ -43,6 +43,22 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Founder Success
 - **Title**: Program Success Director
+
+### Joey
+- **Email**: joseph.beverley@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/JoeyNB_COS](https://t.me/JoeyNB_COS)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Founder Success
+- **Title**: Founder Success Manager
+
+### sh.ai
+- **Email**: shai.perednik@near.foundation
+- **Preferred Contact Method**: Telegram
+- **Telegram Profile Link**: [https://t.me/sh_ai_0x](https://t.me/sh_ai_0x)
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Founder Success
+- **Title**: Principal Ecosystem Solution Architect
 
 ### Abhishek Vaidyanathan
 - **Email**: abhishek.vaidyanathan@near.foundation
