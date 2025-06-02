@@ -113,22 +113,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Marketing
 - **Title**: Head of Partnership Marketing
 
-### Kiana Vidal
-- **Email**: kiana.vidal@near.foundation
-- **Preferred Contact Method**: Email, Telegram
-- **Telegram Profile Link**: [https://t.me/Kiana_0226](https://t.me/Kiana_0226)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing
-- **Title**: Event Production Manager
-
-### David Morrison
-- **Email**: david.morrison@near.foundation
-- **Preferred Contact Method**: Email, Telegram
-- **Telegram Profile Link**: [https://t.me/DAOvid_Mo](https://t.me/DAOvid_Mo)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Marketing
-- **Title**: Head of Creative Campaigns & Social Media
-
 ### Stephanie Izquieta
 - **Email**: stephanie.izquieta@near.foundation
 - **Preferred Contact Method**: Email, Telegram
@@ -143,10 +127,3 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Marketing
 - **Title**: Marketing Program Director
-
-### Megan Gill
-- **Email**: megan.gill@near.foundation
-- **Preferred Contact Method**: Email
-- **Organization (Node)**: NEAR Foundation
-- **Team**: People
-- **Title**: HR Generalist
