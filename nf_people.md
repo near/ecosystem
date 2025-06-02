@@ -44,6 +44,13 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Founder Success
 - **Title**: Program Success Director
 
+### Ester
+- **Email**: ester.silva@near.foundation
+- **Preferred Contact Method**: Email
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Founder Success
+- **Title**: Ecosystem Program Manager
+
 ### Joey
 - **Email**: joseph.beverley@near.foundation
 - **Preferred Contact Method**: Telegram
