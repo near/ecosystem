@@ -73,14 +73,14 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Telegram Profile Link**: [https://t.me/abhishekvaidy](https://t.me/abhishekvaidy)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Legal
-- **Title**: Acting General Counsel
+- **Title**: General Counsel
 
 ### Davin
 - **Email**: davin.basi@near.foundation
 - **Preferred Contact Method**: Email
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Legal
-- **Title**: Legal Counsel
+- **Title**: Senior Legal Counsel
 
 ### Carla
 - **Email**: carla.bertoncelli@near.foundation
