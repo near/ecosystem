@@ -12,14 +12,6 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Team**: Infra Success
 - **Title**: Head of Infra Success
 
-### Iker Alustiza
-- **Email**: iker.alustiza@near.foundation
-- **Preferred Contact Method**: Telegram
-- **Telegram Profile Link**: [https://t.me/IkerAlustiza](https://t.me/IkerAlustiza)
-- **Organization (Node)**: NEAR Foundation
-- **Team**: Infra Success
-- **Title**: Partner Engineer
-
 ### Artem Petrikeev
 - **Email**: artem.petrikeev@near.foundation
 - **Preferred Contact Method**: Telegram
@@ -73,7 +65,7 @@ This document provides contact information for members of the NEAR Foundation. P
 - **Telegram Profile Link**: [https://t.me/abhishekvaidy](https://t.me/abhishekvaidy)
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Legal
-- **Title**: General Counsel
+- **Title**: Chief Legal Officer
 
 ### Davin
 - **Email**: davin.basi@near.foundation
@@ -84,6 +76,13 @@ This document provides contact information for members of the NEAR Foundation. P
 
 ### Carla
 - **Email**: carla.bertoncelli@near.foundation
+- **Preferred Contact Method**: Email
+- **Organization (Node)**: NEAR Foundation
+- **Team**: Legal
+- **Title**: Paralegal
+
+### Sahil
+- **Email**: sahil.asthana@near.foundation
 - **Preferred Contact Method**: Email
 - **Organization (Node)**: NEAR Foundation
 - **Team**: Legal
